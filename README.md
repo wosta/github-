@@ -2,12 +2,29 @@ github整理
 [toc]
 
 ## Objective-C
+
+### ActionSheet
+* https://github.com/yulingtianxia/TBActionSheet | A custom Action Sheet 
+
+### Alert
+* https://github.com/Sumi-Interactive/SIAlertView
+
 ### Animations
 * https://github.com/Ciechan/BCMeshTransformView Mesh transforms for UIView
 * https://github.com/wazrx/XWTransition 几句代码快速集成自定义转场效果+ 全手势驱动
 * https://github.com/alanwangmodify/WXSTransition 界面转场动画集
 * https://github.com/Loveway/HWLoadingAnimation Animation for loading (complete with Objective-C & Swift)
 * https://github.com/dgytdhy/DGThumbUpButton DGThumbUpButton---有动画的点赞按钮
+* https://github.com/lilei644/LLSwitch | 一个有趣的按钮开关
+* https://github.com/baidao/YTXAnimations | The iOS Animation Implementation of CSS3.
+* https://github.com/singer1026/DMHeartFlyAnimation 直播点赞动画
+* https://github.com/xiaofei86/UIKitDynamics  
+
+### Audio
+* https://github.com/hackiftekhar/IQAudioRecorderControllerA drop-in universal library allows to record audio within the app with a nice User Interface.
+
+### Bluetooth 蓝牙
+* https://github.com/Haley-Wong/HLBluetoothDemo 蓝牙操作库，小票打印库
 
 ### Cache
 * https://github.com/vitoziv/VISDWebImageWorker  VISDWebImageWorker 基于 SDWebImage 和 VIImageWorker。SDWebImage 用来缓存网络中的图片，VIImageWorker 是一个图片处理的工具类库。
@@ -16,11 +33,18 @@ github整理
 * https://github.com/KiranPanesar/MXLCalendarManager 
 * https://github.com/unixzii/Daysquare An elegant calendar control for iOS.
 
+### Charts 
+* https://github.com/yate1996/Y_KLine  K_Line
+
 ### Guider
 * https://github.com/zhouhuanqiang/AdvertisingPageDemo 启动广告
 
+### Introduction Views
+* https://github.com/ealeksandrov/EAIntroView Highly customizable drop-in solution for introduction views. ❤️
+
 ### JS交互
 * JSPatch https://github.com/bang590/JSPatch | 如何动态调用 C 函数: http://mp.weixin.qq.com/s?__biz=MzIzNTQ2MDg2Ng==&mid=2247483687&idx=1&sn=94d3ce224e5e25f2e1ae8a6046efb472#rd
+* https://github.com/CoderJackyHuang/WebViewJavascriptBridgeDemo 学习如何使用WebViewJavascriptBridge，配有详细的使用教程
 
 ### LiveVideo & Video
 * https://github.com/pili-engineering/PLStreamingKit 
@@ -28,15 +52,33 @@ github整理
 * https://github.com/qiniudemo/qiniu-live-iOS Pili直播
 * https://github.com/xiaomaxuetu/douyuTV 实现了斗鱼TV直播视频的播放，播放器采用的是36氪的三方开源播放器,播放源是(Http Live streaming)
 * https://github.com/ksvc/KSYLive_iOS 金山云直播SDK [ iOS推流+播放 ]融合版 http://ksvc.github.io/KSYLive_iOS/index.html
+* https://github.com/chenliming777/LMLiveStreaming 
+* https://github.com/SunLiner/MiaowShow iOS视频直播项目
+* https://github.com/daniulive/SmarterStreaming 
+
+### Model
+* https://github.com/ibireme/YYModel 
+
+### NSNotification
+* https://github.com/cwRichardKim/RKNotificationHub 通知
+
+### NSString
+* https://github.com/Raizlabs/BonMot | Beautiful, easy attributed strings for iOS
 
 ### Photos
 * https://github.com/iphone5solo/PYPhotosView 用法简单的呈现一组图片的框架
+* https://github.com/YuAo/YUCIHighPassSkinSmoothing  An implementation of High Pass Skin Smoothing using Apple's Core Image Framework
+* https://github.com/ideaismobile/IDMPhotoBrowser | 
+* https://github.com/longitachi/ZLPhotoBrowser 方便易用的相册照片多选框架，支持拍照、预览快速多选；相册混合选择；原图功能；在线下载iCloud端图片，且针对iCloud端图片的选择做了细节处理；自定义最大选择量及最大预览量
 
 ### Runtime
 * http://iipanda.com/2016/05/11/Runtime实战之定制TabBarItem大小/ Runtime实战之定制TabBarItem大小
 
 ### Search
 * https://github.com/honeycao/HCSortAndSearchDemo 完整排序、搜索功能实现，搜索框不同模式的多种通讯录样式。
+
+### Segement 
+* https://github.com/tianzhuo112/VTMagic 有很多开发者曾尝试模仿写出类似网易、腾讯等应用的菜单分页组件 http://www.jianshu.com/p/cb2edb21055f
 
 ### Tags
 * https://github.com/huangxuan518/HXTagsView 各式各样的标签集
@@ -46,6 +88,7 @@ github整理
 * http://mrpeak.cn/blog/leak/ iOS内存泄漏自动检测工具PLeakSniffer
 * https://github.com/krzysztofzablocki/KZBootstrap iOS project bootstrap aimed at high quality coding. 配置环境打不同的包
 * https://github.com/joggerplus/JPFPSStatus Show FPS Status on StatusBar
+* https://github.com/facebook/FBMemoryProfiler ❤️iOS tool that helps with profiling iOS Memory usage.
 
 ### UICollectionView
 * https://github.com/awdigital/AWCollectionViewSlidingDoors
@@ -62,6 +105,8 @@ github整理
  * https://github.com/jamztang/CSStickyHeaderFlowLayout 
  * https://github.com/betzerra/MosaicLayout MosaicLayout using UICollectionViews
  * https://github.com/zhengwenming/WeChat 模仿微信朋友圈
+ * https://github.com/hebertialmeida/HAPaperViewController UICollectionView with layout transitions inspired by Facebook Paper App
+ * https://github.com/TeehanLax/UICollectionView-Spring-Demo | A demonstration of UICollectionView and UIKit Dynamics
 
 ### UILabel
 * https://github.com/zipme/RQShineLabel Secret app like text animation
@@ -74,13 +119,22 @@ github整理
 	*	Pushes/Pops a view controller when hides/shows navigation bar display soomthly【当控制器做Push/Pop时无缝、平滑地显隐导航栏】
 	*	Release some restrictions make your navigation controller stronger【解除一些限制，使你的导航控制器更加强大】
 	*	Follow Apple's API design principles,uses as natural as system api【遵循Apple Inc的API设计原则，使用就像系统API一样自然】
+	* https://github.com/apptality/ATNavBarButton A sub-class of UIBarButtonItem to insert custom buttons or indicatorView into your navigationBar with one line of code.	
+	
+### UITabbarController
+ * https://github.com/antiguab/BATabBarController A TabBarController with a unique animation for selection
  	
 ### UITableView
+* https://github.com/liao3841054/AppStore-Horizontal-Demo 仿半糖App 个人中心可以横向滚动的 列表 UICollectionView UITableView UISrcrollView
+* https://github.com/gskbyte/GSKStretchyHeaderView A generic stretchy header for UITableView and UICollectionView
+* https://github.com/manuelescrig/MEVFloatingButton An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it. 加载更多之后有一个返回上一页的按钮
 
 ### Video
 * https://github.com/hanton/HTY360Player Open Source iOS 360 Degree Panorama Video Player. https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
 * https://github.com/hanton/HTY360Player Open Source iOS 360 Degree Panorama Video Player. https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
 * https://github.com/Guzlan/BackgroundVideoiOS A swift and objective-C object that lets you add a background video to iOS views
+* https://github.com/Bilibili/ijkplayer Android/iOS video player based on FFmpeg n3.0, with MediaCodec, VideoToolbox support.
+* https://github.com/unash/BarrageRenderer | 弹幕
 
 ### VR
 * https://github.com/Aralekk/VR_Toolkit_iOS
@@ -93,6 +147,16 @@ github整理
 * https://github.com/ricobeck/KFCocoaPodsPlugin cocoaPods提示
 * https://github.com/cyanzhong/xTextHandler  Xcode Source Editor 插件集
 * https://github.com/Forkong/FKConsole FKConsole是一个用于在Xcode控制台显示中文的插件。
+* https://github.com/music4kid/FastStub-Xcode It's helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
+* https://github.com/dsmelov/simsim Easy access to application folders on iOS simulator or device! Fast, stable, free alternative to SimPholders.
+* https://github.com/EnjoySR/ESTranslate-Xcode | 快速翻译Xcode代码里面的单词。
+* https://github.com/MellongLau/AMAppExportToIPA-Xcode-Plugin AMAppExportToIPA-Xcode-Plugin is a simple Xcode plugin to export .app to .ipa file.
+
+### 博客/周报/干货
+* https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly 百度Hi团队 iOS 技术周报
+* https://github.com/Draveness/iOS-Source-Code-Analyze 深入解析 iOS 开源项目
+* https://github.com/everettjf/TomatoRead | 番茄阅读 - 精选 iOS / OS X 开发者博客
+* https://github.com/jobbole/awesome-ios-cn iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 
 ### 日常必备
 * https://github.com/CoderJackyHuang/HYBHelperKit UIBlockKit、UIMakerKit、UIHelperKit、CommonKit、FoundationKit、Controllers等集于一身的神器！
@@ -106,6 +170,13 @@ github整理
 * 
 ### 刷新
 * https://github.com/coolbeet/CBStoreHouseRefreshControl 
+* https://github.com/Yalantis/pull-to-make-soup  cook
+
+### 数据持久化
+* ❤️http://wereadteam.github.io/2016/07/06/GYDataCenter/ GYDataCenter：高性能数据库框架 介绍:http://wereadteam.github.io/2016/07/06/GYDataCenter/
+* https://github.com/vitoziv/VIMediaCache 
+* https://github.com/scubers/JRDB 
+* https://realm.io/docs/objc/latest/
 
 ### 图文混排
 * https://github.com/waynezxcv/Gallop
@@ -123,6 +194,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### 架构/设计模式
 * http://wereadteam.github.io/2016/06/30/Aspects/ 面向切面编程之 Aspects 源码解析及应用
+* https://github.com/CaryZheng/Vapor-Chinese apor 是基于 Swift 实现的 Web 框架与服务，可运行于 OS X 和 Ubuntu 系统上。
+* https://github.com/boai/BABaseProject 一个基于 MVVM 和 MVC 设计模式的基本项目框架，项目用到的各种类，各种封装，各种三方库的综合项目
+* https://github.com/shenAlexy/MVVM MVVM架构的一次实践，重写iOS头条客户端
 
 ### 其他
 * https://github.com/ZhongTaoTian/Hardest 史上最困难的游戏-By Objective-C
@@ -132,17 +206,26 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### Animations
 * https://github.com/JakeLin/SaveTheDot A game developed using UIViewPropertyAnimator
 
-
 ### Charts
 * https://github.com/recruit-mtl/Graphs 
 
 ### runtime
 * http://www.jianshu.com/p/371e8810d9cf 
 
+### String
+* https://github.com/delba/TextAttributes An easier way to compose attributed strings
+
 ### Tools
 * https://github.com/dzenbot/Iconic 自动生成图标字体
 * https://github.com/dzenbot/DZNEmptyDataSet UITableView或者UICollectionViews数据为空时默认显示
 * https://github.com/onevcat/Rainbow 控制台多彩化
+* https://github.com/liuslevis/GYBootingProtection  当连续闪退超过 5 次时，会提示用户修复：
+* https://github.com/CatchZeng/Localizable.strings2Excel iOS本地化字符串与Excel互相转换的Python脚本工具
+* https://github.com/bestswifter/MySampleCode | http://www.jianshu.com/users/3e55748920d2/latest_articles 简书示例demo
+* https://github.com/CoderJackyHuang/HYBImageCliped 开源高效处理圆角的扩展，包括UIImageView、UIView、UIButton、UIImage的扩展API，可根据图片颜色生成图片带任意圆角，可给UIButton根据不同状态处理图片。所有生成图片都不会引起离屏渲染且不会引起离屏、图层混合，支持添加图片边框
+
+### UICollectionView
+ * https://github.com/atljeremy/JFCardSelectionViewController  滑动卡牌
 
 ### UILabel
 * https://github.com/Fnoz/FNBlingBlingLabel Swift实现的UILabel文字随机渐隐渐现, Swift版RQShineLabel.
@@ -159,12 +242,37 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 架构/设计模式
 * http://swift.gg/2016/06/27/refactoring-to-creation-method/ 《重构与模式》 Swift 版之创建方法
 
-###源码解析
+### 源码解析
 * https://github.com/devxoul/RxTodo | http://blog.dianqk.org/2016/07/06/learn-rxtodo/
 
 ## 项目
 ###0C
+
+### ❤️高仿
+* https://github.com/HansRove/XiMaLY 喜马拉雅 OC
+* https://github.com/lookingstars/meituan 美团5.7 OC
+* https://github.com/callmejoejoe/XCFApp 下厨房 OC
+* https://github.com/Jiang-Fallen/iComicReader 漫画阅读 
+* https://github.com/jiachenmu/Swift-BanTang 半糖 swift
+
 ### 电商类
 * https://github.com/qingyunhe/WanHeGardenShop "万和园艺"是一个电商项目
-* 
+
+### 即时通讯
+* https://github.com/layerhq/Atlas-iOS Chat and Messaging UI components for iOS, built to work with Layer https://layer.com
+* https://github.com/icoderRo/LCWeChat | 模仿微信
+
+### 日历
+* https://github.com/cyanzhong/LunarCore *已上线*
+
+### 视频
+* https://github.com/SunLiner/MiaowShow iOS视频直播项目
+
+### 新闻资讯
+* https://github.com/ongnen/FourNews 一个新闻浏览客户端 新闻|阅读|视听|话题|个人
+* https://everettjf.github.io/2016/05/13/how-to-write-a-simple-feed-reader
+* https://github.com/shenAlexy/MVVM MVVM架构的一次实践，重写iOS头条客户端
+* https://github.com/yuedu-fm/yuedu-ios 悦读FM客户端，*已上线*
+* https://github.com/luzefeng/DouBanMeinv ❤️豆瓣美女
+
 
