@@ -93,6 +93,7 @@ github整理
 * https://github.com/KiranPanesar/MXLCalendarManager 
 * https://github.com/unixzii/Daysquare An elegant calendar control for iOS.
 * https://github.com/WenchaoD/FSCalendar A superiorly awesome iOS7+ calendar control, compatible with both Objective-C and Swift2
+* https://github.com/wanggang316/ZBJCalendar ZBJCalendar is a simple calendar framework for iOS.
 
 ### Category
 * https://github.com/shaojiankui/JKCategories JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc. **star  1.9k**
@@ -118,6 +119,7 @@ github整理
 * https://github.com/zhouhuanqiang/AdvertisingPageDemo 启动广告
 * https://github.com/StoneLeon/STLBGVideo 启动视频
 * https://github.com/mamaral/Onboard  An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code. ❤️ **star 3.9k**
+* https://github.com/CoderZhuXH/XHLaunchAd 几行代码实现启动页广告功能 - 支持静态/动态广告
 
 ### HTML
 * https://github.com/zootreeves/Objective-C-HMTL-Parser An objective c wrapper around libxml for parsing HTML http:///www.benreeves.co.uk **0.98k**
@@ -165,14 +167,24 @@ github整理
 * https://github.com/nicolashery/mac-dev-setup A beginner's guide to setting up a development environment on Mac OS X **star 1.9k**
 * https://github.com/hzlzh/Best-App  收集&推荐优秀的 Apps/硬件/技巧/周边等 **6.9k**
 
+### Map
+* https://github.com/googlemaps/google-maps-ios-utils Utility library for Google Maps SDK for iOS
+
 ### Model
 * https://github.com/ibireme/YYModel 
 * https://github.com/jsonmodel/jsonmodel **5.3k**
 * https://github.com/CoderMJLee/MJExtension **5.6k**
 * https://github.com/Mantle/Mantle **9.5k**
+* https://github.com/matthewcheok/Realm-JSON A concise Mantle-like way of working with Realm and JSON. **0.5k**
 
 ### MVVM
 * https://github.com/ReactiveCocoa/ReactiveViewModel Model-View-ViewModel, using ReactiveCocoa **star 1.4k**
+* https://github.com/boai/BABaseProject **0.107K** 一个基于 MVVM 和 MVC 设计模式的基本项目框架，项目用到的各种类，各种封装，各种三方库的综合项目，欢迎大家使用！
+* https://github.com/shenAlexy/MVVM MVVM架构的一次实践，重写iOS头条客户端
+* https://github.com/GeniusBrother/HZExtend MVVM 
+* https://github.com/lovemo/MVVMFramework (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。
+* https://github.com/lizelu/MVVM 一个MVVM架构的iOS工程 http://www.cnblogs.com/ludashi/p/4211556.html **star 0.45k**
+* https://github.com/boai/BABaseProject 一个基于 MVVM 和 MVC 设计模式的基本项目框架，项目用到的各种类，各种封装，各种三方库的综合项目
 
 ### NSDate
 * https://github.com/kevinlawler/NSDate-TimeAgo A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad **star 1.4k**
@@ -295,6 +307,7 @@ github整理
  * https://github.com/impeterstone/PSCollectionView A simple open source implementation of a Pinterest Pinboard for iOS **1.3k**
  * https://github.com/chiahsien/CHTCollectionViewWaterfallLayout The waterfall (i.e., Pinterest-like) layout for UICollectionView. **2.7k**
  * https://github.com/sibahota059/SPHChatCollectionView SPHChatCollectionView to use in chat screens. (Supports iOS 8) **0.4k**
+ * https://github.com/zhengwenming/WeChat 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
 
 ### UIImage
 * https://github.com/BradLarson/GPUImage An open source iOS framework for GPU-based image and video processing http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework 
@@ -417,6 +430,7 @@ github整理
 ### VR
 * https://github.com/Aralekk/VR_Toolkit_iOS
 * https://github.com/Aralekk/simple360player_iOS
+* https://github.com/ashqal/MD360Player4iOS It is a lite library to render 360 degree panorama video for iOS. VR Player.
 
 ### Weather
 * https://github.com/thoughtbot/Tropos Weather and Forecasts for Humans http://troposweather.com
@@ -506,11 +520,13 @@ https://github.com/ChenYilong/ParseSourceCodeStudy Facebook开源的Parse源码�
 * https://realm.io/docs/objc/latest/
 * https://github.com/yuantiku/YTKKeyValueStore 粉笔网、猿题库、小猿搜题 使用
 * https://github.com/sequelpro/sequelpro MySQL database management for Mac OS X 
-* https://github.com/realm/realm-cocoa Realm
+* https://github.com/realm/realm-cocoa Realm **8k** ❤️
 * https://github.com/kishikawakatsumi/UICKeyChainStore UICKeyChainStore is a simple wrapper for Keychain on iOS. Makes using Keychain APIs as easy as NSUserDefaults. http://kishikawakatsumi.com **star 2k**
 * https://github.com/gangverk/GVUserDefaults NSUserDefaults access via properties **star 0.6k**
 * https://github.com/magicalpanda/MagicalRecord Super Awesome Easy Fetching for Core Data 1!!!11!!!!1! **9.5k**
-* https://github.com/ccgus/fmdb **10k**
+* https://github.com/ccgus/fmdb **10k** A Cocoa / Objective-C wrapper around SQLite
+* https://github.com/casatwy/CTPersistance Objective-C Database Persistence Layer with SQLite, your next Persistence Layer! http://persistance.casatwy.com **0.4k**
+* https://github.com/li6185377/LKDBHelper-SQLite-ORM 全自动的插入,查询,更新,删除， an automatic database operation thread-safe and not afraid of recursive deadlock http://blog.csdn.net/li6185377 **0.5k**
 
 ### 图文混排
 * https://github.com/waynezxcv/Gallop
@@ -529,6 +545,12 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/robbiehanson/XMPPFramework An XMPP Framework in Objective-C for Mac and iOS **star 4.5k**
 * https://github.com/ChatSecure/ChatSecure-iOS ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. https://chatsecure.org **2k**
 
+#### 基于AFN3.0的封装
+* https://github.com/bawn/LCNetwork 基于 AFNetworking 的封装，参考了YTKNetwork的实现方式， 接口类采用 @protocol 约束，接口类的创建和使用更清晰。已适配 AFNetworking 3.x
+* https://github.com/xinge1/LXNetworking 
+* https://github.com/SummerHF/AFNetworking- 
+* https://github.com/boai/BANetManager 
+
 ### 新姿势
 * https://github.com/shu223/iOS7-Sampler Code examples for the new features of iOS 7. **star 3k**
 * https://github.com/shu223/iOS8-Sampler Code examples for the new features of iOS 8. **star 3.2k**
@@ -541,12 +563,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 架构/设计模式
 * http://wereadteam.github.io/2016/06/30/Aspects/ 面向切面编程之 Aspects 源码解析及应用
 * https://github.com/CaryZheng/Vapor-Chinese apor 是基于 Swift 实现的 Web 框架与服务，可运行于 OS X 和 Ubuntu 系统上。
-* https://github.com/boai/BABaseProject 一个基于 MVVM 和 MVC 设计模式的基本项目框架，项目用到的各种类，各种封装，各种三方库的综合项目
-* https://github.com/shenAlexy/MVVM MVVM架构的一次实践，重写iOS头条客户端
 * https://github.com/huang303513/Design-Pattern-For-iOS iOS设计模式探索 ❤️
-* https://github.com/GeniusBrother/HZExtend MVVM 
-* https://github.com/lovemo/MVVMFramework (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。
-* https://github.com/lizelu/MVVM 一个MVVM架构的iOS工程 http://www.cnblogs.com/ludashi/p/4211556.html **star 0.45k**
 * https://github.com/ChenYilong/CYLTabBarController 最低只需传两个数组即可完成主流App框架搭建 **star 2.2k**
 
 ### 其他
@@ -588,6 +605,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### Charts
 * https://github.com/recruit-mtl/Graphs 
+* https://github.com/TBXark/TKRadarChart A customizable radar chart in Swift
 
 ### Launch
 * https://github.com/michaelbabiy/RMParallax The way to impress users on the first app launch. **0.59k**
@@ -683,6 +701,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/hilen/TSWeChat ❤️微信
 * https://github.com/jamy0801/LGWeChatKit swift
 * https://github.com/icoderRo/LCWeChat | 模仿微信
+* https://github.com/nacker/LZEasemob3 高仿微信-持续更新中 酷信 | 高仿微信 | 高仿朋友圈 | Github上最牛逼的高仿微信项目没有之一
 * https://github.com/cornerAnt/PilesSugar 堆糖 swift
 * https://github.com/ZhongTaoTian/LoveFreshBeen 爱鲜蜂 swift 
 * https://github.com/NicholasTD07/SwiftDailyAPI 知乎
@@ -694,9 +713,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/ZhongTaoTian/WNXHuntForCity 城觅 **star 1.6k** OC
 
 ### 电商类
-* https://github.com/qingyunhe/WanHeGardenShop "万和园艺"是一个电商项目
-* https://github.com/twitterdev/furni-ios Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform ❤️
+* https://github.com/twitterdev/furni-ios Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform ❤️ swift
 * https://github.com/JxbSir/YiYuanYunGou 高仿一元云购IOS应用（高仿自一元云购安卓客户端） **star 0.4k**
+* https://github.com/GPPG/GPHandMade 手工圈 oc **160+** ❤️
 
 ### 工具
 * https://github.com/Flipboard/FLEX An in-app debugging and exploration tool for iOS ❤️❤️ **star 6.2k**
@@ -710,6 +729,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/Coding/Coding-iOS ❤️ Coding iOS 客户端源代码 https://coding.net/u/coding/p/Coding-iOS **star 1.6k**
 * https://github.com/samuelclay/NewsBlur NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. http://www.newsblur.com **star 4.3k**
 * https://github.com/mogujie/TeamTalk TeamTalk is a solution for enterprise IM **3.4K**
+* https://github.com/overtake/telegram Source code of Telegram for OSX http://telegram.org **1k**
 
 ### 日历
 * https://github.com/cyanzhong/LunarCore *已上线*
@@ -722,12 +742,11 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/JakeLin/SwiftWeather SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language. **3.8k**
 
 ### 新闻资讯
-* https://github.com/dsxNiubility/SXNews ❤️❤️ High imitation Neteasy News. (include list,detail,photoset,weather,feedback) **star 2.2k**
+* https://github.com/dsxNiubility/SXNews ❤️ High imitation Neteasy News. (include list,detail,photoset,weather,feedback) **star 2.2k**
 * https://github.com/ongnen/FourNews 一个新闻浏览客户端 新闻|阅读|视听|话题|个人
 * https://everettjf.github.io/2016/05/13/how-to-write-a-simple-feed-reader
-* https://github.com/shenAlexy/MVVM MVVM架构的一次实践，重写iOS头条客户端
 * https://github.com/yuedu-fm/yuedu-ios 悦读FM客户端，*已上线*
-* https://github.com/luzefeng/DouBanMeinv ❤️豆瓣美女
+* https://github.com/luzefeng/DouBanMeinv ❤️豆瓣美女 swift
 * https://github.com/teddylong/iOSGank ❤️gank.io (*已上架*,现在版本2.0) http://gank.applinzi.com/
 * https://github.com/wordpress-mobile/WordPress-iOS WordPress **star 1.1k** *已上线*
 * https://github.com/wikimedia/wikipedia-ios The official Wikipedia iOS app. https://www.mediawiki.org/wiki/Wikimedia_Apps
