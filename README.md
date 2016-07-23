@@ -662,6 +662,19 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 干货
 * https://github.com/soapyigu/LeetCode_Swift Solutions coded by Swift to LeetCode 题库
 
+### 全栈工程师
+* https://github.com/geekcompany/full-stack-tree 全栈工程师技能树 **0.5k**
+* https://github.com/warmheartli/FullStackDeveloperCourse 教你成为全栈工程师 http://www.shareditor.com/bloglistbytag/?tagname=教你成为全栈工程师
+* https://github.com/angular-fullstack/generator-angular-fullstack Yeoman generator for AngularJS with an Express server http://yeoman.io AngularJS Full-Stack generator
+
+* https://github.com/makaimc/fullstackpython.com Full Stack Python source with Pelican, Bootstrap and Markdown. https://www.fullstackpython.com/ **1.6k**
+* https://github.com/Webschool-io/be-mean-instagram 🍺 Curso voltado a ensinar o STACK conhecido como MEAN(MongoDb, Express, Angular e Node.js) e muitas outras tecnologias que utilizam JavaScript. ONde você se formará um desenvolvedor FULLSTACK!!! http://webschool.io/bemean **1.1k**
+* https://github.com/i5ting/nodejs-fullstack 高可用架构专用《全栈工程师之路-Node.js》 http://i5ting.github.io/nodejs-fullstack/ **0.5k**
+* https://github.com/phodal/growth-in-action 全栈增长工程师实战 http://growth-in-action.phodal.com/ **0.7k**
+* https://github.com/phodal/ideabook 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action. http://ideabook.phodal.com/ **1.3k**
+* https://github.com/phodal/growth-ebook Growth Engineering: The Definitive Guide。全栈增长工程师指南 http://growth.phodal.com/ **3.7k**
+* https://github.com/enaqx/awesome-react A collection of awesome things regarding React ecosystem. **14k**
+
 ### 刷新
 * https://github.com/Fnoz/FNMatchPull Swift实现的火柴图案&火柴文字下拉刷新动效（超炫酷下拉刷新），Swift&加强版本CBStoreHouseRefreshControl.
 
