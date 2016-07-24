@@ -743,6 +743,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/samuelclay/NewsBlur NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. http://www.newsblur.com **star 4.3k**
 * https://github.com/mogujie/TeamTalk TeamTalk is a solution for enterprise IM **3.4K**
 * https://github.com/overtake/telegram Source code of Telegram for OSX http://telegram.org **1k**
+* https://github.com/wireapp/wire-ios Wire iOS client (iPhone and iPad) https://wire.com/download/ios/ ❤️ **0.56k**
 
 ### 日历
 * https://github.com/cyanzhong/LunarCore *已上线*
