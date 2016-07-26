@@ -545,6 +545,11 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/robbiehanson/XMPPFramework An XMPP Framework in Objective-C for Mac and iOS **star 4.5k**
 * https://github.com/ChatSecure/ChatSecure-iOS ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. https://chatsecure.org **2k**
 
+#### 基于AFN2.0的封装
+* https://github.com/yuantiku/YTKNetwork YTKNetwork is a high level request util based on AFNetworking. **3.3k**
+* https://github.com/Overcoat/Overcoat The perfect accessory for Mantle and AFNetworking. **1.5k**
+* https://github.com/mogujie/MGJRequestManager 蘑菇街 一个基于 AFNetworking 2 的灵活好用的 iOS 网络库 **0.3k**
+
 #### 基于AFN3.0的封装
 * https://github.com/bawn/LCNetwork 基于 AFNetworking 的封装，参考了YTKNetwork的实现方式， 接口类采用 @protocol 约束，接口类的创建和使用更清晰。已适配 AFNetworking 3.x
 * https://github.com/xinge1/LXNetworking 
@@ -661,6 +666,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### 干货
 * https://github.com/soapyigu/LeetCode_Swift Solutions coded by Swift to LeetCode 题库
+* https://github.com/TeamStuQ/skill-map StuQ 技能图谱 http://skill-map.stuq.org/ **2.8k**
 
 ### 全栈工程师
 * https://github.com/geekcompany/full-stack-tree 全栈工程师技能树 **0.5k**
@@ -733,6 +739,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 工具
 * https://github.com/Flipboard/FLEX An in-app debugging and exploration tool for iOS ❤️❤️ **star 6.2k**
 * https://github.com/leichunfeng/MVVMReactiveCocoa GitBucket iOS App https://itunes.apple.com/cn/app/id961330940?mt=8*已上线* **star 2k**
+* https://github.com/SketchK/FOUR FOUR is a beautiful and lightweight task-recorder app, revolving around the theme of "10000 Hour Rule", encourage user to achieve their goal. *已上线* **0.125k**
 
 ### 即时通讯
 * https://github.com/layerhq/Atlas-iOS Chat and Messaging UI components for iOS, built to work with Layer https://layer.com
@@ -783,6 +790,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 音乐
 * https://github.com/Aufree/ESTMusicPlayer An elegant and simple iOS music player.
 * https://github.com/XVXVXXX/DoubanFM The DoubanFM for iPhone,using AFN and MPMoviePlayer **star 0.4k**
+
+### 运动
+* https://github.com/enochng1/RaceMe RaceMe is a run tracking + ghosting iOS mobile application. **0.12k**
 
 ### Other 
 * https://github.com/geekcompany/ResumeSample Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 http://get.jobdeer.com/744.get **6.1k**
