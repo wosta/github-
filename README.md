@@ -58,6 +58,7 @@ github整理
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
 * https://github.com/ArtSabintsev/Harpy  Notify users when a new version of your iOS app is available, and prompt them with the App Store link. http://www.sabintsev.com **2k**
+* https://github.com/nicklockwood/iVersion Library for dynamically checking for updates to Mac/iPhone App Store apps from within the application and notifying users about the new release. Can also notify users about new features in the app the first time they launch after an upgrade. http://www.charcoaldesign.co.uk/source/cocoa#iversion **1.7k**
 
 ### Audio
 * https://github.com/hackiftekhar/IQAudioRecorderControllerA drop-in universal library allows to record audio within the app with a nice User Interface.
@@ -490,6 +491,7 @@ https://github.com/ChenYilong/ParseSourceCodeStudy Facebook开源的Parse源码�
 * https://github.com/nixzhu/dev-blog  一些翻译 **star 2.6k**
 * https://github.com/shijiangkai/iOS-Programming-Sharing 28岁，零基础，学习 iOS 编程经验分享 **star 0.2k**
 * http://futurice.com 
+* https://github.com/xitu/gold-miner 掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io **2.5k** ❤️
 
 ### 代码规范
 * https://github.com/samlaudev/Objective-C-Coding-Style aywenderlich Objective-C的编码规范
