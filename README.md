@@ -793,6 +793,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/Aufree/ESTMusicPlayer An elegant and simple iOS music player.
 * https://github.com/XVXVXXX/DoubanFM The DoubanFM for iPhone,using AFN and MPMoviePlayer **star 0.4k**
 
+### 娱乐
+* https://github.com/MichaelHuyp/Bilibili_Wuxianda 高仿bilibili项目 
+
 ### 运动
 * https://github.com/enochng1/RaceMe RaceMe is a run tracking + ghosting iOS mobile application. **0.12k**
 
