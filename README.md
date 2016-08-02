@@ -72,6 +72,7 @@ github整理
 * https://github.com/forkingdog/UITableView-FDTemplateLayoutCell ❤️ Template auto layout cell for automatically UITableViewCell height calculating **star 5.8k**
 * https://github.com/bryceredd/RFQuiltLayout A UICollectionViewLayout subclass to put items in a quilting pattern **star 0.8k**
 * https://github.com/terminatorover/RGCardViewLayout This is a layout that clones the interaction of going through city "cards" in the City Guide App. (this app is #3 for the top iOS app animations on the raywenderlich **1.2k**
+* https://github.com/casatwy/HandyAutoLayout handy categories for generate NSLayoutConstraint programmatically, and layout your Frame easy **0.7k**
 
 ### Badge
 * https://github.com/Marxon13/M13BadgeView
@@ -129,6 +130,10 @@ github整理
 * https://github.com/SVProgressHUD/SVProgressHUD  A clean and lightweight progress HUD for your iOS and tvOS app.  **8.23k**
 * https://github.com/jdg/MBProgressHUD MBProgressHUD + Customizations http://www.bukovinski.com/ **11K**
 
+### Interview-Questions
+* https://github.com/lzyy/iOS-Developer-Interview-Questions 面试 iOS 开发时可以问的一些问题 **0.7k**
+* http://way2ios.com/development/ios-development-2/ios-interview-questions-with-answers/ 
+
 ### Introduction Views
 * https://github.com/ealeksandrov/EAIntroView Highly customizable drop-in solution for introduction views. ❤️
 
@@ -179,9 +184,10 @@ github整理
 * https://github.com/matthewcheok/Realm-JSON A concise Mantle-like way of working with Realm and JSON. **0.5k**
 
 ### MVVM
+* https://github.com/lovemo/MVVMFramework (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。**0.6k** ❤️❤️❤️ 这一篇思路很不错，而且文章底部也提供了学习MVVM的其他文章，值得一读
 * https://github.com/ReactiveCocoa/ReactiveViewModel Model-View-ViewModel, using ReactiveCocoa **star 1.4k**
 * https://github.com/boai/BABaseProject **0.107K** 一个基于 MVVM 和 MVC 设计模式的基本项目框架，项目用到的各种类，各种封装，各种三方库的综合项目，欢迎大家使用！
-* https://github.com/shenAlexy/MVVM MVVM架构的一次实践，重写iOS头条客户端
+* https://github.com/shenAlexy/MVVM MVVM架构的一次实践，重写iOS头条客户端 *思路很清晰，封装也很好。*
 * https://github.com/GeniusBrother/HZExtend MVVM 
 * https://github.com/lovemo/MVVMFramework (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。
 * https://github.com/lizelu/MVVM 一个MVVM架构的iOS工程 http://www.cnblogs.com/ludashi/p/4211556.html **star 0.45k**
@@ -368,7 +374,8 @@ github整理
 * https://github.com/wuyuedefeng/WSTableviewTree 可折叠展开的tableview, tableview folder.你可以像定义普通cell一样定义subrow的cell进行自定义美化
 * https://github.com/brocoo/BRFlabbyTable Bouncy and distorded table view cells
 * https://github.com/JackTeam/XHFeed 类似你喜欢的微博主页列表、SNS评论列表、分享图片列表、都是图文并茂的UITableView，自定义UITableViewCell
-* https://github.com/dzenbot/DZNEmptyDataSet A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display. https://www.cocoacontrols.com/controls/dznemptydataset **star 5.7k**
+* https://github.com/dzenbot/DZNEmptyDataSet A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display. https://www.cocoacontrols.com/controls/dznemptydataset **star 5.7k** UITableView为空时默认显示图片
+* https://github.com/JerryLoveRice/JRPlaceHolder Very easy to use the tableView placeholders, zero cost to integration **0.051k** UITableView为空时默认显示图片 国人写的，英文不错，有用到runtime
 * https://github.com/ZhipingYang/UUChatTableView Cocoa UI component for group or private chat bubbles with text, images and audio support **star 1.3k**
 * https://github.com/relatedcode/RealtimeChat This is a full native iPhone app to create realtime, text based group or private chat with Parse and Firebase. **star 0.8k**
 
@@ -377,6 +384,9 @@ github整理
 * https://github.com/CEWendel/SWTableViewCell An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application) **6.2k**
 * https://github.com/mariohahn/MHVideoPhotoGallery A Photo and Video Gallery **star 1.7k**
 * https://github.com/JC-Hu/JHCellConfig Flexible way to build a UITableView contains different kinds of cells, without switch...case, super easy to modify.- 一种十分灵活易变的适用于创建有多种cell的UITableView的方法，不需要使用switch...case，在调整不同种cell的顺序、及增删某种cell时极其方便 **0.17k**
+
+### UITableViewHeader
+ * https://github.com/iThinkerYZ/YZHeaderScaleImage 快速集成tableView中头部缩放视图 **50**
 
 ### UIText
 * https://github.com/ibireme/YYText Powerful text framework for iOS to display and edit rich text. ❤️ **star 5.1k**
@@ -483,7 +493,7 @@ github整理
 * https://github.com/CYXiang/CYXTenMinDemo 从小白到码农的路上
 * http://mp.weixin.qq.com/s?__biz=MzAwNjA3NDMyOA==&mid=2659762202&idx=3&sn=5adb4687deabf3174a90e15cf98f565e&scene=23&srcid=0708YjiCr7XdYYaGBVGDPe5c#rd iOS 日常工作之常用宏定义大全
 * https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md ❤️❤️ **star 52k**
-https://github.com/ChenYilong/ParseSourceCodeStudy Facebook开源的Parse源码分析【系列】 **star 2k**
+* https://github.com/ChenYilong/ParseSourceCodeStudy Facebook开源的Parse源码分析【系列】 **star 2k**
 * https://fclef.wordpress.com Has your iOS app been “stripped”? https://github.com/truebit/xUnique
 * https://github.com/nemoTyrant/manong 码农周刊整理 ❤️❤️ **star 3.2k**
 * https://github.com/100mango/zen iOS 心得 **star 1.5k**
@@ -492,6 +502,7 @@ https://github.com/ChenYilong/ParseSourceCodeStudy Facebook开源的Parse源码�
 * https://github.com/shijiangkai/iOS-Programming-Sharing 28岁，零基础，学习 iOS 编程经验分享 **star 0.2k**
 * http://futurice.com 
 * https://github.com/xitu/gold-miner 掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io **2.5k** ❤️
+* http://www.ios122.com 有态度的iOS第三方资源聚合网站 ❤️❤️❤️
 
 ### 代码规范
 * https://github.com/samlaudev/Objective-C-Coding-Style aywenderlich Objective-C的编码规范
