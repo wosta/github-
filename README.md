@@ -743,6 +743,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/gaowanli/PinGo 随遇 swift
 * https://github.com/lyimin/beautifulApp 最美 swift **star 740+**
 * https://github.com/ZhongTaoTian/WNXHuntForCity 城觅 **star 1.6k** OC
+* http://www.jianshu.com/p/c092c0d190fb# 高仿单糖app
 
 ### 电商类
 * https://github.com/twitterdev/furni-ios Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform ❤️ swift
