@@ -284,6 +284,7 @@ github整理
 * https://github.com/facebook/AsyncDisplayKit Smooth asynchronous user interfaces for iOS apps. http://asyncdisplaykit.org **8.6k**
 * https://github.com/CanvasPod/Canvas Animate in Xcode without code http://canvaspod.io **4.8k**
 * https://github.com/RestKit/RestKit  RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X **9.6k** ❤️
+* https://github.com/noodlewerk/NWPusher OS X and iOS application and framework to play with the Apple Push Notification service (APNs) **1.6k**
 
 ### UICollectionView
 * https://github.com/yixiangboy/YXCollectionView UICollection学习总结以及案例集合 **star 290+**
@@ -503,6 +504,7 @@ github整理
 * http://futurice.com 
 * https://github.com/xitu/gold-miner 掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io **2.5k** ❤️
 * http://www.ios122.com 有态度的iOS第三方资源聚合网站 ❤️❤️❤️
+* http://blog.jobbole.com/104138/ 开发者 MAC 电脑里的十八般兵器 ❤️❤️❤️
 
 
 ### 代码规范
@@ -530,7 +532,7 @@ github整理
 ### 数据持久化
 * ❤️http://wereadteam.github.io/2016/07/06/GYDataCenter/ GYDataCenter：高性能数据库框架 介绍:http://wereadteam.github.io/2016/07/06/GYDataCenter/
 * https://github.com/vitoziv/VIMediaCache 
-* https://github.com/scubers/JRDB 
+* https://github.com/scubers/JRDB iOS用对FMDB的超好用封装  **275**
 * https://realm.io/docs/objc/latest/
 * https://github.com/yuantiku/YTKKeyValueStore 粉笔网、猿题库、小猿搜题 使用
 * https://github.com/sequelpro/sequelpro MySQL database management for Mac OS X 
@@ -672,6 +674,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### UITextField
 * https://github.com/whitesmith/WSTagsField An iOS text field that represents different Tags
 * https://github.com/lexrus/LTBouncyPlaceholder A learning-by-doing UITextField extension written in Swift **star 0.4k**
+* https://github.com/jobandtalent/AnimatedTextInput Animated UITextField and UITextView replacement for iOS **81k**
 
 ### UITextView
 * https://github.com/muukii/NextGrowingTextView The next in the generations of 'growing textviews' optimized for iOS 7 and above.
@@ -720,6 +723,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### open-source-iOS-apps 
 * https://github.com/dkhamsing/open-source-ios-apps 📱 Collaborative List of Open-Source iOS Apps **star 6870+**
+
+### React Native
+* https://github.com/jiangqqlmj/GaGaMall React Native开发嘎嘎商城客户端 http://www.lcode.org/ **180k+**
 
 ### ❤️高仿
 * https://github.com/HansRove/XiMaLY 喜马拉雅 OC
