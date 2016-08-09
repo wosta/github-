@@ -223,6 +223,7 @@ github整理
 * https://github.com/mwaterfall/MWPhotoBrowser A simple iOS photo and video browser with grid view, captions and selections. http://michael.typify.io **star 6.1k**
 * https://github.com/chiunam/CTAssetsPickerController iOS control that allows picking multiple photos and videos from user's photo library. **1.5k**
 * https://github.com/gsdios/SDPhotoBrowser **star 0.5k**
+* https://github.com/iphone5solo/PYPhotoBrowser https://github.com/iphone5solo/PYPhotoBrowser **0.34k** 
 
 ### PickerView
 * https://github.com/STShenZhaoliang/STPickerView 一个多功能的选择器,有城市选择，日期选择和单数组源自定的功能，方便大家的使用,低耦合,易扩展。如果大家喜欢请给个星星，我将不断提供更好的代码。
@@ -332,6 +333,7 @@ github整理
 * https://github.com/TTTAttributedLabel/TTTAttributedLabel A drop-in replacement for UILabel that supports attributes, data detectors, links, and more **6.3k**
 * https://github.com/facebook/Shimmer  An easy way to add a simple, shimmering effect to any view in an iOS app. **6.8k**
 * https://github.com/AliSoftware/OHAttributedLabel UILabel that supports NSAttributedString https://github.com/AliSoftware/OHAttributedLabel/wiki **1.5k**
+* https://github.com/Draveness/Typeset Deal with AttributedString efficiently **312**
 
 ### UINavigation
 * https://github.com/JazysYu/JZNavigationExtension JZNavigationExtension为UINavigationController集成了许多方便的功能。
@@ -550,6 +552,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/huangxuan518/HXFlexoView 
 
 ### 网络/通讯
+* https://github.com/xincc/CCRequest 一个不用和后端干架的网络层解决方案(A Dancing HTTP request framework) **157**
 * https://github.com/Soulghost/SGWiFiUpload 通过WiFi将电脑上传文件到手机
 * http://www.jianshu.com/p/e69d77d97a5e zip解压
 * https://github.com/CoderJackyHuang/HYBNetworking 基于AFNetworking3.0以上版本封装的网络层。提供常用的GET/POST接口、上传下载图片、文件接口、支持缓存等。 详解:http://101.200.209.244/base-on-afnetworking3-0-wrapper/
@@ -623,6 +626,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/Yalantis/Persei Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift https://yalantis.com/?utm_source=github **2.1k**
 * https://github.com/codestergit/SweetAlert-iOS Live animated Alert View for iOS written in Swift **1.3k**
 * https://github.com/izotx/JMCBeaconManager iBeacon Manager **0.1k**
+* https://github.com/JeasonWong/JikeGallery 仿即刻首页滚动效果 http://www.wangyuwei.me/2016/08/07/手摸手教你写炫酷控件/ `![](https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966)`
+* https://github.com/Yalantis/ColorMatchTabs Inspired by this project on Dribbble **384**
 
 ### Charts
 * https://github.com/recruit-mtl/Graphs 
@@ -634,8 +639,17 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### Location
 * https://github.com/SvenTiigi/STLocationRequest A simple and elegant 3D-Flyover location request screen written in Swift
 
+### GCD
+* https://github.com/Swiftification/Dispatch Just a tiny library to make using GCD easier and intuitive **133**
+
 ### Guider
 * https://github.com/ephread/Instructions Create walkthroughs and guided tours (using coach marks) in a simple way, using Swift。
+
+### Net
+* https://github.com/Alamofire/Alamofire Elegant HTTP Networking in Swift **18k**
+
+### Photo
+* https://github.com/Roylee-ML/PrismaSimpleImagePicker This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor **0.12k** 
 
 ### runtime
 * http://www.jianshu.com/p/371e8810d9cf 
@@ -725,7 +739,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/dkhamsing/open-source-ios-apps 📱 Collaborative List of Open-Source iOS Apps **star 6870+**
 
 ### React Native
-* https://github.com/jiangqqlmj/GaGaMall React Native开发嘎嘎商城客户端 http://www.lcode.org/ **180k+**
+###### * https://github.com/jiangqqlmj/GaGaMall React Native开发嘎嘎商城客户端 http://www.lcode.org/ **180k+**
 
 ### ❤️高仿
 * https://github.com/HansRove/XiMaLY 喜马拉雅 OC
