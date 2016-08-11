@@ -196,7 +196,7 @@ github整理
 ### NSDate
 * https://github.com/kevinlawler/NSDate-TimeAgo A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad **star 1.4k**
 * https://github.com/MatthewYork/DateTools Dates and times made easy in Objective-C **4.5k**
-* https://github.com/erica/NSDate-Extensions **1k**
+* https://github.com/erica/NSDate-Extensions Practical real-world dates **1.1k** *swfit*
 
 ### NSNotification
 * https://github.com/cwRichardKim/RKNotificationHub 通知
@@ -223,7 +223,8 @@ github整理
 * https://github.com/mwaterfall/MWPhotoBrowser A simple iOS photo and video browser with grid view, captions and selections. http://michael.typify.io **star 6.1k**
 * https://github.com/chiunam/CTAssetsPickerController iOS control that allows picking multiple photos and videos from user's photo library. **1.5k**
 * https://github.com/gsdios/SDPhotoBrowser **star 0.5k**
-* https://github.com/iphone5solo/PYPhotoBrowser https://github.com/iphone5solo/PYPhotoBrowser **0.34k** 
+* https://github.com/iphone5solo/PYPhotoBrowser **0.34k** 
+* https://github.com/cbangchen/CBImagePicker A wonderful image picker ! **58**
 
 ### PickerView
 * https://github.com/STShenZhaoliang/STPickerView 一个多功能的选择器,有城市选择，日期选择和单数组源自定的功能，方便大家的使用,低耦合,易扩展。如果大家喜欢请给个星星，我将不断提供更好的代码。
@@ -507,7 +508,9 @@ github整理
 * https://github.com/xitu/gold-miner 掘金翻译计划，翻译掘金上优质的英文文章 http://gold.xitu.io **2.5k** ❤️
 * http://www.ios122.com 有态度的iOS第三方资源聚合网站 ❤️❤️❤️
 * http://blog.jobbole.com/104138/ 开发者 MAC 电脑里的十八般兵器 ❤️❤️❤️
-
+* https://github.com/jobbole 伯乐在线 awesome of IT 
+* http://blog.jobbole.com/104313/ 同上+-
+* http://limboy.me/tech/2014/04/15/use-objection-to-decouple-ios-project.html 使用objection来模块化开发iOS项目 依赖注入 
 
 ### 代码规范
 * https://github.com/samlaudev/Objective-C-Coding-Style aywenderlich Objective-C的编码规范
@@ -632,6 +635,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### Charts
 * https://github.com/recruit-mtl/Graphs 
 * https://github.com/TBXark/TKRadarChart A customizable radar chart in Swift
+* https://github.com/danielgindi/Charts  Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.  **10k**
 
 ### Launch
 * https://github.com/michaelbabiy/RMParallax The way to impress users on the first app launch. **0.59k**
@@ -644,6 +648,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### Guider
 * https://github.com/ephread/Instructions Create walkthroughs and guided tours (using coach marks) in a simple way, using Swift。
+
+### Model
+* https://github.com/SwiftyJSON/SwiftyJSON The better way to deal with JSON data in Swift ** 11k**
 
 ### Net
 * https://github.com/Alamofire/Alamofire Elegant HTTP Networking in Swift **18k**
@@ -699,6 +706,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 干货
 * https://github.com/soapyigu/LeetCode_Swift Solutions coded by Swift to LeetCode 题库
 * https://github.com/TeamStuQ/skill-map StuQ 技能图谱 http://skill-map.stuq.org/ **2.8k**
+* http://merowing.info 
 
 ### 全栈工程师
 * https://github.com/geekcompany/full-stack-tree 全栈工程师技能树 **0.5k**
@@ -793,6 +801,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### 视频
 * https://github.com/SunLiner/MiaowShow iOS视频直播项目
+* https://github.com/aslanyanhaik/youtube-iOS youtube iOS app template written in swift 3 **NEW** ✨✨✨
 
 ### 天气
 * https://github.com/cjnwan/SimpleWeather *已上线*
