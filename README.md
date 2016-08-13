@@ -631,6 +631,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/izotx/JMCBeaconManager iBeacon Manager **0.1k**
 * https://github.com/JeasonWong/JikeGallery 仿即刻首页滚动效果 http://www.wangyuwei.me/2016/08/07/手摸手教你写炫酷控件/ `![](https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966)`
 * https://github.com/Yalantis/ColorMatchTabs Inspired by this project on Dribbble **384**
+* https://github.com/ttmdung203/MDGroupAvatarView MDGroupAvatarView cocoapod **71**
 
 ### Charts
 * https://github.com/recruit-mtl/Graphs 
@@ -654,6 +655,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### Net
 * https://github.com/Alamofire/Alamofire Elegant HTTP Networking in Swift **18k**
+
+### PageControl
+* https://github.com/popwarsweet/PageControls This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection **156**
 
 ### Photo
 * https://github.com/Roylee-ML/PrismaSimpleImagePicker This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor **0.12k** 
@@ -774,6 +778,10 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/lyimin/beautifulApp 最美 swift **star 740+**
 * https://github.com/ZhongTaoTian/WNXHuntForCity 城觅 **star 1.6k** OC
 * http://www.jianshu.com/p/c092c0d190fb# 高仿单糖app
+* https://github.com/iCodeForever/ifanr 高仿 爱范儿 swift
+
+### 笔记
+* https://github.com/Automattic/simplenote-ios Simplenote for iOS https://simplenote.com 
 
 ### 电商类
 * https://github.com/twitterdev/furni-ios Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform ❤️ swift
