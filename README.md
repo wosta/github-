@@ -54,6 +54,7 @@ github整理
 * https://github.com/MartinRGB/LearnCube-iOS An animation practise demo **0.59k**
 * https://github.com/schneiderandre/popping A collection of animation examples for iOS apps. **star 4.7k**
 * https://github.com/scotteg/LayerPlayer Layer Player explores the capabilities of Apple's Core Animation API https://itunes.apple.com/app/layer-player/id949768742 **0.73k**
+* https://github.com/AlfredTheBest/iOS_core_animation 📙iOS核心动画高级技巧 **57**
 
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -182,6 +183,7 @@ github整理
 * https://github.com/CoderMJLee/MJExtension **5.6k**
 * https://github.com/Mantle/Mantle **9.5k**
 * https://github.com/matthewcheok/Realm-JSON A concise Mantle-like way of working with Realm and JSON. **0.5k**
+* https://github.com/marcoarment/FCModel  An alternative to Core Data for people who like having direct SQL access. **1.5k**
 
 ### MVVM
 * https://github.com/lovemo/MVVMFramework (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。**0.6k** ❤️❤️❤️ 这一篇思路很不错，而且文章底部也提供了学习MVVM的其他文章，值得一读
@@ -233,6 +235,9 @@ github整理
 
 ### QRCode
 * https://github.com/MxABC/LBXScan barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装) **star 920+**
+
+### React Native 
+* https://github.com/crazycodeboy/RNStudyNotes React Native 学习笔记 **118**
 
 ### Runtime
 * http://iipanda.com/2016/05/11/Runtime实战之定制TabBarItem大小/ Runtime实战之定制TabBarItem大小
@@ -452,6 +457,7 @@ github整理
 
 ### WebViewController
 * https://github.com/ninjinkun/NJKWebViewProgress UIWebView progress interface
+* https://github.com/dzenbot/DZNWebViewController A simple web browser for iPhone & iPad with similar features than Safari's https://www.cocoacontrols.com/controls/dznwebviewcontroller **0.8k**
 
 ### XcodePlugin
 * https://github.com/ricobeck/KFCocoaPodsPlugin cocoaPods提示
@@ -775,13 +781,13 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/race604/ZhiHuDaily-React-Native 知乎 A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS). **star 2.7k**
 * https://github.com/hshpy/HPYZhiHuDaily 仿知乎日报 iOS app **star 0.3k**
 * https://github.com/gaowanli/PinGo 随遇 swift
-* https://github.com/lyimin/beautifulApp 最美 swift **star 740+**
+* https://github.com/lyimin/beautifulApp 最美 swift **star 740+**  ``
 * https://github.com/ZhongTaoTian/WNXHuntForCity 城觅 **star 1.6k** OC
 * http://www.jianshu.com/p/c092c0d190fb# 高仿单糖app
 * https://github.com/iCodeForever/ifanr 高仿 爱范儿 swift
 
 ### 笔记
-* https://github.com/Automattic/simplenote-ios Simplenote for iOS https://simplenote.com 
+* https://github.com/Automattic/simplenote-ios Simplenote for iOS https://simplenote.com  
 
 ### 电商类
 * https://github.com/twitterdev/furni-ios Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform ❤️ swift
@@ -846,6 +852,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### 娱乐
 * https://github.com/MichaelHuyp/Bilibili_Wuxianda 高仿bilibili项目 
+
+### 阅读
+* https://github.com/YinTokey/SougouReading Imitate a novel APP／仿搜狗阅读 ，用 charles抓取数据。 
 
 ### 运动
 * https://github.com/enochng1/RaceMe RaceMe is a run tracking + ghosting iOS mobile application. **0.12k**
