@@ -123,6 +123,7 @@ github整理
 * https://github.com/StoneLeon/STLBGVideo 启动视频
 * https://github.com/mamaral/Onboard  An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code. ❤️ **star 3.9k**
 * https://github.com/CoderZhuXH/XHLaunchAd 几行代码实现启动页广告功能 - 支持静态/动态广告
+* https://github.com/AllLuckly/LBLaunchImageAd iOS开发启动广告，动态获取网络启动图片，具有渐变的启动动画，支持半屏和全屏，类似百度ssp广告和广点通的广告。支持广告点击等，集成非常的方便。欢迎使用，好用请star https://allluckly.cn **153**
 
 ### HTML
 * https://github.com/zootreeves/Objective-C-HMTL-Parser An objective c wrapper around libxml for parsing HTML http:///www.benreeves.co.uk **0.98k**
@@ -168,6 +169,7 @@ github整理
 * https://github.com/SunLiner/MiaowShow iOS视频直播项目 **star 0.5k**
 * https://github.com/rFlex/SCRecorder iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing **star 1.9k**
 * https://github.com/LaiFengiOS/LFLiveKit  LaiFeng IOS Live Kit **0.1k**
+* https://github.com/ChinaArJun/Tencent-NOW  IOS视频直播:高仿 腾讯旗下 NOW 直播 ->映客直播类型 **21**
 
 ### Mac Required
 * https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor  oh-my-zsh & iterm2 http://www.iterm2.com
@@ -267,6 +269,7 @@ github整理
 * https://github.com/dongxinb/DBSphereTagCloud A 3D spherical tag cloud view of iOS.
 * https://github.com/xhzengAIB/TagView  High efficiency Tag components. ❤️
 * https://github.com/zekunyan/TTGTagCollectionView
+* https://github.com/andreamazz/AMTagListView UIScrollView subclass that allows to add a list of highly customizable tags. 
 
 ### Tools
 * https://github.com/leeSmile/tools 项目中常用到的一些分类及工具类
@@ -598,6 +601,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/CaryZheng/Vapor-Chinese apor 是基于 Swift 实现的 Web 框架与服务，可运行于 OS X 和 Ubuntu 系统上。
 * https://github.com/huang303513/Design-Pattern-For-iOS iOS设计模式探索 ❤️
 * https://github.com/ChenYilong/CYLTabBarController 最低只需传两个数组即可完成主流App框架搭建 **star 2.2k**
+* https://github.com/alibaba/BeeHive BeeHive是用于ios的app模块化编程的框架实现方案，吸收了Spring框架service的理念来实现模块间的API耦合。 **142**
 
 ### 其他
 * https://github.com/ZhongTaoTian/Hardest 史上最困难的游戏-By Objective-C
@@ -607,7 +611,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### Awesome-swift 
 * https://github.com/matteocrippa/awesome-swift
 * https://github.com/MartinRGB/MTSwift-Learning ❤️ 100天学习swift项目
+* https://github.com/nettlep/learn-swift 
 * https://github.com/Nododo/Swift_100days learn swift by 100
+* https://github.com/khuong291/100DaysOfSwift 
 * https://github.com/allenwong/30DaysofSwift learn swift by 30
 * https://github.com/hsavit1/Awesome-Swift-Education **star 4790+**
 * https://github.com/numbbbbb/the-swift-programming-language-in-chinese 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 http://gg.swiftguide.cn **star 15k**
