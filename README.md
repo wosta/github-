@@ -55,6 +55,7 @@ github整理
 * https://github.com/schneiderandre/popping A collection of animation examples for iOS apps. **star 4.7k**
 * https://github.com/scotteg/LayerPlayer Layer Player explores the capabilities of Apple's Core Animation API https://itunes.apple.com/app/layer-player/id949768742 **0.73k**
 * https://github.com/AlfredTheBest/iOS_core_animation 📙iOS核心动画高级技巧 **57**
+* https://github.com/Josin22/JSWave 如何实现百度外卖APP个人中心头像"浪"起来的动画效果 更多详细说明请移步我的博客 http://qiaotongxin.cc/2016/08/22/20160822/ 
 
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -111,6 +112,7 @@ github整理
 * https://github.com/Jawbone/JBChartView iOS-based charting library for both line and bar graphs. **star 3.3k**
 * https://github.com/danielgindi/Charts Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. **star 10k** ❤️
 * https://github.com/kevinzhow/PNChart  A simple and beautiful chart lib used in Piner and CoinsMan for iOS **7.1k**
+* https://github.com/leancloud/ChatKit-OC An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US. ChatKit 是一个免费且开源的 UI 聊天组件，自带云服务器，自带推送，支持消息漫游，消息永久存储。  **495**
 
 ### Encrypt 
 * https://github.com/soffes/SSKeychain  Simple Objective-C wrapper for the keychain that works on Mac and iOS
@@ -186,6 +188,7 @@ github整理
 * https://github.com/Mantle/Mantle **9.5k**
 * https://github.com/matthewcheok/Realm-JSON A concise Mantle-like way of working with Realm and JSON. **0.5k**
 * https://github.com/marcoarment/FCModel  An alternative to Core Data for people who like having direct SQL access. **1.5k**
+* https://github.com/Ahmed-Ali/JSONExport JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. **1.5k**
 
 ### MVVM
 * https://github.com/lovemo/MVVMFramework (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。**0.6k** ❤️❤️❤️ 这一篇思路很不错，而且文章底部也提供了学习MVVM的其他文章，值得一读
@@ -237,6 +240,7 @@ github整理
 
 ### QRCode
 * https://github.com/MxABC/LBXScan barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装) **star 920+**
+* https://github.com/KevinGong2013/ChineseIDCardOCR 🇨🇳中国二代身份证光学识别 **371**
 
 ### React Native 
 * https://github.com/crazycodeboy/RNStudyNotes React Native 学习笔记 **118**
@@ -520,6 +524,8 @@ github整理
 * https://github.com/jobbole 伯乐在线 awesome of IT 
 * http://blog.jobbole.com/104313/ 同上+-
 * http://limboy.me/tech/2014/04/15/use-objection-to-decouple-ios-project.html 使用objection来模块化开发iOS项目 依赖注入 
+* https://segmentfault.com/a/1190000006266276  iOS 客户端基于 WebP 图片格式的流量优化（上） 
+
 
 ### 代码规范
 * https://github.com/samlaudev/Objective-C-Coding-Style aywenderlich Objective-C的编码规范
@@ -533,6 +539,9 @@ github整理
 	*	Controllers：辅助控制器，比如用于测试期使用的接口baseurl访问和建立测试中心入口
 	* 等等
 * https://github.com/wujunyang/MobileProject 一个基于MVC的项目框架，并集成一些常用的功能(不断更新中)
+
+### 审核不过的相关问题
+* https://github.com/wg689/Solve-App-Store-Review-Problem a collection to solve app store review problem (ipv6,后台定位等审核问题的终极解决方案汇总)
 
 ### 刷新
 * https://github.com/coolbeet/CBStoreHouseRefreshControl 
@@ -618,6 +627,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/hsavit1/Awesome-Swift-Education **star 4790+**
 * https://github.com/numbbbbb/the-swift-programming-language-in-chinese 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 http://gg.swiftguide.cn **star 15k**
 
+### Alert
+* https://github.com/nishimao/FeedbackKit This is useful tool to send feedback in ios app development. **117**
+
 ### Animations
 * https://github.com/JakeLin/SaveTheDot A game developed using UIViewPropertyAnimator
 * https://github.com/storehouse/Advance A powerful animation framework for iOS, tvOS, and OS X.
@@ -662,6 +674,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### Guider
 * https://github.com/ephread/Instructions Create walkthroughs and guided tours (using coach marks) in a simple way, using Swift。
 
+### HUD
+* https://github.com/SwiftKickMobile/SwiftMessages A very flexible message bar for iOS written in Swift. **246**
+
 ### Model
 * https://github.com/SwiftyJSON/SwiftyJSON The better way to deal with JSON data in Swift ** 11k**
 
@@ -673,6 +688,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### Photo
 * https://github.com/Roylee-ML/PrismaSimpleImagePicker This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor **0.12k** 
+* https://github.com/wangjwchn/AImage A animated GIF&APNG engine for iOS in Swift. Optimized for Multi-Image case. **300k**
 
 ### runtime
 * http://www.jianshu.com/p/371e8810d9cf 
@@ -723,6 +739,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/soapyigu/LeetCode_Swift Solutions coded by Swift to LeetCode 题库
 * https://github.com/TeamStuQ/skill-map StuQ 技能图谱 http://skill-map.stuq.org/ **2.8k**
 * http://merowing.info 
+* http://lihei12345.github.io/2016/08/16/swift-foundation/ Swift实践初探
+* https://github.com/yrq110/Some_IOS_Tutorials_With_Swift 一些使用Swift的iOS教程 
 
 ### 全栈工程师
 * https://github.com/geekcompany/full-stack-tree 全栈工程师技能树 **0.5k**
@@ -736,6 +754,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/phodal/ideabook 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action. http://ideabook.phodal.com/ **1.3k**
 * https://github.com/phodal/growth-ebook Growth Engineering: The Definitive Guide。全栈增长工程师指南 http://growth.phodal.com/ **3.7k**
 * https://github.com/enaqx/awesome-react A collection of awesome things regarding React ecosystem. **14k**
+* https://www.boxueio.com iOS全栈开发高清视频站
 
 ### 刷新
 * https://github.com/Fnoz/FNMatchPull Swift实现的火柴图案&火柴文字下拉刷新动效（超炫酷下拉刷新），Swift&加强版本CBStoreHouseRefreshControl.
@@ -805,6 +824,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/leichunfeng/MVVMReactiveCocoa GitBucket iOS App https://itunes.apple.com/cn/app/id961330940?mt=8*已上线* **star 2k**
 * https://github.com/SketchK/FOUR FOUR is a beautiful and lightweight task-recorder app, revolving around the theme of "10000 Hour Rule", encourage user to achieve their goal. *已上线* **0.125k**
 
+### 教育学习
+* https://github.com/6ag/EnglishCommunity-swift swift语言开发的自学英语社区app
+
 ### 即时通讯
 * https://github.com/layerhq/Atlas-iOS Chat and Messaging UI components for iOS, built to work with Layer https://layer.com
 * https://github.com/peter-iakovlev/Telegram  Telegram Messenger for iOS
@@ -851,6 +873,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/Sausure/GankWebApp 基于gonk.io提供的API实现的WebApp http://sausure.github.io/GankWebApp/ 
 * https://github.com/gaosboy/iOSSF SegmentFault官方App **1k**
 * https://github.com/itjhDev/itjh IT江湖 **0.4k**
+* https://github.com/hrscy/TodayNews Swift开源项目-模仿今日头条 http://www.codedata.cn/cdetail/Swift/CollectionView/1471514673634279
 
 ### 音乐
 * https://github.com/Aufree/ESTMusicPlayer An elegant and simple iOS music player.
