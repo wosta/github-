@@ -113,6 +113,7 @@ github整理
 * https://github.com/danielgindi/Charts Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. **star 10k** ❤️
 * https://github.com/kevinzhow/PNChart  A simple and beautiful chart lib used in Piner and CoinsMan for iOS **7.1k**
 * https://github.com/leancloud/ChatKit-OC An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US. ChatKit 是一个免费且开源的 UI 聊天组件，自带云服务器，自带推送，支持消息漫游，消息永久存储。  **495**
+* https://github.com/Pluto-Y/iOS-Echarts 一个charts的汇总 **500k**
 
 ### Encrypt 
 * https://github.com/soffes/SSKeychain  Simple Objective-C wrapper for the keychain that works on Mac and iOS
