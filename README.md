@@ -115,6 +115,9 @@ github整理
 * https://github.com/leancloud/ChatKit-OC An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US. ChatKit 是一个免费且开源的 UI 聊天组件，自带云服务器，自带推送，支持消息漫游，消息永久存储。  **495**
 * https://github.com/Pluto-Y/iOS-Echarts 一个charts的汇总 **500k**
 
+### Debug ❤❤
+* http://www.jianshu.com/p/70ed36cf8a98 Xcode7中你一定要知道的炸裂调试神技 
+
 ### Encrypt 
 * https://github.com/soffes/SSKeychain  Simple Objective-C wrapper for the keychain that works on Mac and iOS
 
@@ -627,6 +630,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/allenwong/30DaysofSwift learn swift by 30
 * https://github.com/hsavit1/Awesome-Swift-Education **star 4790+**
 * https://github.com/numbbbbb/the-swift-programming-language-in-chinese 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 http://gg.swiftguide.cn **star 15k**
+* https://github.com/cjiong/LearnSwift One hundred days, fifty projects. 100天，50个工程 **171**
 
 ### Alert
 * https://github.com/nishimao/FeedbackKit This is useful tool to send feedback in ios app development. **117**
@@ -634,7 +638,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### Animations
 * https://github.com/JakeLin/SaveTheDot A game developed using UIViewPropertyAnimator
 * https://github.com/storehouse/Advance A powerful animation framework for iOS, tvOS, and OS X.
-* https://github.com/AfryMask/AFBrushBoard 毛笔画板 
+* https://github.com/AfryMask/AFBrushBoard 毛笔画板 **415**
 * https://github.com/poolqf/FillableLoaders Completely customizable progress based loaders drawn using custom CGPaths written in Swift https://cocoapods.org/pods/FillableLoaders
 * https://github.com/JakeLin/IBAnimatable 
 * https://github.com/zangqilong198812/HotGirls 
@@ -742,6 +746,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * http://merowing.info 
 * http://lihei12345.github.io/2016/08/16/swift-foundation/ Swift实践初探
 * https://github.com/yrq110/Some_IOS_Tutorials_With_Swift 一些使用Swift的iOS教程 
+* http://www.jianshu.com/p/a5b6d5efce88 [译]百里挑一：21个优质Swift开源App  原文链接：https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e#.ug7rr6ki5 ❤❤❤
 
 ### 全栈工程师
 * https://github.com/geekcompany/full-stack-tree 全栈工程师技能树 **0.5k**
