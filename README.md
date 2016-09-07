@@ -56,6 +56,7 @@ github整理
 * https://github.com/scotteg/LayerPlayer Layer Player explores the capabilities of Apple's Core Animation API https://itunes.apple.com/app/layer-player/id949768742 **0.73k**
 * https://github.com/AlfredTheBest/iOS_core_animation 📙iOS核心动画高级技巧 **57**
 * https://github.com/Josin22/JSWave 如何实现百度外卖APP个人中心头像"浪"起来的动画效果 更多详细说明请移步我的博客 http://qiaotongxin.cc/2016/08/22/20160822/ 
+* https://github.com/Josin22/JSDownloadView 精巧顺滑的下载动画 http://qiaotongxin.cc/2016/08/30/20160830/ 
 
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -133,6 +134,7 @@ github整理
 
 ### HTML
 * https://github.com/zootreeves/Objective-C-HMTL-Parser An objective c wrapper around libxml for parsing HTML http:///www.benreeves.co.uk **0.98k**
+* https://github.com/Cocoanetics/DTCoreText Methods to allow using HTML code with CoreText **4.5k**
 
 ### HUD
 * https://github.com/SVProgressHUD/SVProgressHUD  A clean and lightweight progress HUD for your iOS and tvOS app.  **8.23k**
@@ -146,9 +148,12 @@ github整理
 * https://github.com/ealeksandrov/EAIntroView Highly customizable drop-in solution for introduction views. ❤️
 
 ### JS交互
-* JSPatch https://github.com/bang590/JSPatch | 如何动态调用 C 函数: http://mp.weixin.qq.com/s?__biz=MzIzNTQ2MDg2Ng==&mid=2247483687&idx=1&sn=94d3ce224e5e25f2e1ae8a6046efb472#rd
+* https://github.com/CoderJackyHuang/WebViewJavascriptBridgeDemo 学习如何使用WebViewJavascriptBridge，配有详细的使用教程 http://www.huangyibiao.com/archives/670 
+
+### JSPatch
 * https://github.com/bang590/JSPatch **star 6.3k**
-* https://github.com/CoderJackyHuang/WebViewJavascriptBridgeDemo 学习如何使用WebViewJavascriptBridge，配有详细的使用教程
+* http://gold.xitu.io/entry/57c025e179bc440063ce54b6/view iOS 5分钟集成热修复(JSPatch) 
+* JSPatch https://github.com/bang590/JSPatch | 如何动态调用 C 函数: http://mp.weixin.qq.com/s?__biz=MzIzNTQ2MDg2Ng==&mid=2247483687&idx=1&sn=94d3ce224e5e25f2e1ae8a6046efb472#rd
 
 ### Keyboard 
 * https://github.com/slackhq/SlackTextViewController A drop-in UIViewController subclass with a growing text input view and other useful messaging features http://www.slack.com **star 6k+**
@@ -215,7 +220,7 @@ github整理
 * https://github.com/jaydee3/JDStatusBarNotification  [iOS] Easy, customizable notifications displayed on top of the statusbar. http://jaydee3.github.io/JDStatusBarNotification/ **2.6k**
 
 ### NSString
-* https://github.com/Raizlabs/BonMot | Beautiful, easy attributed strings for iOS
+* https://github.com/Raizlabs/BonMot | Beautiful, easy attributed strings for iOS **891**
 
 ### Pay
 * https://github.com/lintide/ApplePayDemo Apple Pay demo 苹果支付示例
@@ -247,7 +252,8 @@ github整理
 * https://github.com/KevinGong2013/ChineseIDCardOCR 🇨🇳中国二代身份证光学识别 **371**
 
 ### React Native 
-* https://github.com/crazycodeboy/RNStudyNotes React Native 学习笔记 **118**
+* https://github.com/crazycodeboy/RNStudyNotes React Native 学习笔记 **308**
+* https://github.com/ming1016/GCDFetchFeed  RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向 **124** ❤️
 
 ### Runtime
 * http://iipanda.com/2016/05/11/Runtime实战之定制TabBarItem大小/ Runtime实战之定制TabBarItem大小
@@ -398,6 +404,7 @@ github整理
 * https://github.com/JerryLoveRice/JRPlaceHolder Very easy to use the tableView placeholders, zero cost to integration **0.051k** UITableView为空时默认显示图片 国人写的，英文不错，有用到runtime
 * https://github.com/ZhipingYang/UUChatTableView Cocoa UI component for group or private chat bubbles with text, images and audio support **star 1.3k**
 * https://github.com/relatedcode/RealtimeChat This is a full native iPhone app to create realtime, text based group or private chat with Parse and Firebase. **star 0.8k**
+* https://github.com/josshad/EHHorizontalSelectionView  Horizontal table view style controller **132** ![](https://camo.githubusercontent.com/37c8d3751d8b26e0067d72a0f0e0c404c8d8efa5/68747470733a2f2f6a6f73736861642e6769746875622e696f2f4548486f72697a6f6e74616c53656c656374696f6e566965772f454853656c566965772e676966)
 
 ### UITableViewCell 
 * https://github.com/MortimerGoro/MGSwipeTableCell An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.  **star 3.8k**
@@ -438,6 +445,7 @@ github整理
 * https://github.com/jmascia/KLCPopup A simple and flexible class for presenting custom views as a popup in iOS. **star 1.4k**
 * https://github.com/12207480/DOPDropDownMenu-Enhanced DOPDropDownMenu 添加双列表 优化版 新增图片支持（double tableView, The optimization version ，new add image,detailText） 
 * https://github.com/michaelhenry/MHYahooParallaxView Parallax implementation inspired by Yahoo Weather and News Digest :) **0.6k**
+* https://github.com/zzyspace/ZYDraggableView An UIView category which make view become draggable. **114**
 
 ### UIViewController
 * https://github.com/LeoNatan/LNPopupController LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps. **star 1.2k**
@@ -497,7 +505,7 @@ github整理
 
 ### 博客/周报/干货
 * https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly 百度Hi团队 iOS 技术周报
-* https://github.com/Draveness/iOS-Source-Code-Analyze 深入解析 iOS 开源项目
+* https://github.com/Draveness/iOS-Source-Code-Analyze 深入解析 iOS 开源项目 **2.5k**
 * https://github.com/everettjf/TomatoRead | 番茄阅读 - 精选 iOS / OS X 开发者博客
 * https://github.com/jobbole/awesome-ios-cn iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等 ❤️
 * http://www.jianshu.com/collection/4c98edfd9607 优雅的iOS技术博客
@@ -605,6 +613,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/shu223/iOS8-Sampler Code examples for the new features of iOS 8. **star 3.2k**
 * https://github.com/shu223/iOS-9-Sampler Code examples for the new features of iOS 9. **star 3.4k**
 * https://github.com/ChenYilong/iOS9AdaptationTips iOS9适配
+
+### 正则表达式
+* https://github.com/EdwinXiang/RegularExpression 使用正则表达式判断输入字符串是否正确；例如一些常用的电话号码判断，密码复杂度判断，URL地址判断，邮箱地址判断，IP地址判断等等；
 
 ### 自动化打包
 * https://github.com/debugtalk/JenkinsTemplateForApp 用 Jenkins 搭建 iOS/Android 持续集成打包平台
@@ -814,8 +825,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/gaowanli/PinGo 随遇 swift
 * https://github.com/lyimin/beautifulApp 最美 swift **star 740+**  ``
 * https://github.com/ZhongTaoTian/WNXHuntForCity 城觅 **star 1.6k** OC
-* http://www.jianshu.com/p/c092c0d190fb# 高仿单糖app
+* http://www.jianshu.com/p/c092c0d190fb# 高仿单糖app swift
 * https://github.com/iCodeForever/ifanr 高仿 爱范儿 swift
+* https://github.com/CYBoys/Timi iOS 高仿Timi记账，欢迎star，THX **138** `项目介绍非常详细：用了哪些第三方库，数据库设计，界面如何布局 etc.` ❤️
 
 ### 笔记
 * https://github.com/Automattic/simplenote-ios Simplenote for iOS https://simplenote.com  
