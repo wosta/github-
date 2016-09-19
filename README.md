@@ -17,6 +17,7 @@ github整理
 ### <a name="ActionSheet"></a>ActionSheet
 * https://github.com/yulingtianxia/TBActionSheet | A custom Action Sheet 
 * https://github.com/skywinder/ActionSheetPicker-3.0 Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS. http://skywinder.github.io/ActionSheetPicker-3.0 **star 2k**
+* https://github.com/dogo/SCLAlertView Beautiful animated Alert View. Written in Swift but ported to Objective-C **2300**
 
 ### Alert
 * https://github.com/Sumi-Interactive/SIAlertView
@@ -76,6 +77,9 @@ github整理
 * https://github.com/bryceredd/RFQuiltLayout A UICollectionViewLayout subclass to put items in a quilting pattern **star 0.8k**
 * https://github.com/terminatorover/RGCardViewLayout This is a layout that clones the interaction of going through city "cards" in the City Guide App. (this app is #3 for the top iOS app animations on the raywenderlich **1.2k**
 * https://github.com/casatwy/HandyAutoLayout handy categories for generate NSLayoutConstraint programmatically, and layout your Frame easy **0.7k**
+* https://github.com/molon/MLLayout Flexbox in Objective-C, using Facebook's css-layout. **172**
+* https://github.com/linkedin/LayoutKit LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org **1200**
+
 
 ### Badge
 * https://github.com/Marxon13/M13BadgeView
@@ -113,8 +117,11 @@ github整理
 * https://github.com/Jawbone/JBChartView iOS-based charting library for both line and bar graphs. **star 3.3k**
 * https://github.com/danielgindi/Charts Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. **star 10k** ❤️
 * https://github.com/kevinzhow/PNChart  A simple and beautiful chart lib used in Piner and CoinsMan for iOS **7.1k**
-* https://github.com/leancloud/ChatKit-OC An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US. ChatKit 是一个免费且开源的 UI 聊天组件，自带云服务器，自带推送，支持消息漫游，消息永久存储。  **495**
+* https://github.com/leancloud/ChatKit-OC An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US. ChatKit 是一个免费且开源的 UI 聊天组件，自带云服务器，自带推送，支持消息漫游，消息永久存储。  **980+**
 * https://github.com/Pluto-Y/iOS-Echarts 一个charts的汇总 **500k**
+
+### Color
+* https://github.com/ViccAlexander/Chameleon Flat Color Framework for iOS (Obj-C & Swift) **6800**
 
 ### Debug ❤❤
 * http://www.jianshu.com/p/70ed36cf8a98 Xcode7中你一定要知道的炸裂调试神技 
@@ -181,6 +188,9 @@ github整理
 * https://github.com/rFlex/SCRecorder iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing **star 1.9k**
 * https://github.com/LaiFengiOS/LFLiveKit  LaiFeng IOS Live Kit **0.1k**
 * https://github.com/ChinaArJun/Tencent-NOW  IOS视频直播:高仿 腾讯旗下 NOW 直播 ->映客直播类型 **21**
+* https://github.com/leancloud/LeanCloudLiveKit-iOS 
+* https://github.com/liuf1986/LFRtmp 一个全开源的纯OC实现的RTMP推流SDK支持AAC、H264、美颜滤镜、AMF编解码。
+* https://github.com/xxycode/smallInke/tree/master 小映客
 
 ### Mac Required
 * https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor  oh-my-zsh & iterm2 http://www.iterm2.com
@@ -309,6 +319,8 @@ github整理
 * https://github.com/CanvasPod/Canvas Animate in Xcode without code http://canvaspod.io **4.8k**
 * https://github.com/RestKit/RestKit  RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X **9.6k** ❤️
 * https://github.com/noodlewerk/NWPusher OS X and iOS application and framework to play with the Apple Push Notification service (APNs) **1.6k**
+* https://github.com/moshuqi/PieceDiary/tree/master  iOS日记应用 九宫格日记应用 **100**
+* https://github.com/BestJoker/FJSParallaxCollectionView  模仿微博电影的视觉差效果. ![](https://github.com/BestJoker/FJSParallaxCollectionView/raw/master/FJSParallax.gif?raw=true) **26**
 
 ### UICollectionView
 * https://github.com/yixiangboy/YXCollectionView UICollection学习总结以及案例集合 **star 290+**
@@ -340,6 +352,7 @@ github整理
  * https://github.com/chiahsien/CHTCollectionViewWaterfallLayout The waterfall (i.e., Pinterest-like) layout for UICollectionView. **2.7k**
  * https://github.com/sibahota059/SPHChatCollectionView SPHChatCollectionView to use in chat screens. (Supports iOS 8) **0.4k**
  * https://github.com/zhengwenming/WeChat 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
+ * https://github.com/PageGuo/NewPagedFlowView 电影票卡片式无限自动轮播图 ![](https://github.com/PageGuo/NewPagedFlowView/raw/master/gif/NewPagedFlowViewGif.gif)
 
 ### UIImage
 * https://github.com/BradLarson/GPUImage An open source iOS framework for GPU-based image and video processing http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework 
@@ -550,7 +563,7 @@ github整理
 	*	Constants：经常使用到的常量定义
 	*	Controllers：辅助控制器，比如用于测试期使用的接口baseurl访问和建立测试中心入口
 	* 等等
-* https://github.com/wujunyang/MobileProject 一个基于MVC的项目框架，并集成一些常用的功能(不断更新中)
+* https://github.com/wujunyang/MobileProject 一个基于MVC的项目框架，并集成一些常用的功能(不断更新中) **900+** ![](https://github.com/wujunyang/MobileProject/raw/master/ObjcUML/2.png)
 
 ### 审核不过的相关问题
 * https://github.com/wg689/Solve-App-Store-Review-Problem a collection to solve app store review problem (ipv6,后台定位等审核问题的终极解决方案汇总)
@@ -578,6 +591,10 @@ github整理
 * https://github.com/ccgus/fmdb **10k** A Cocoa / Objective-C wrapper around SQLite
 * https://github.com/casatwy/CTPersistance Objective-C Database Persistence Layer with SQLite, your next Persistence Layer! http://persistance.casatwy.com **0.4k**
 * https://github.com/li6185377/LKDBHelper-SQLite-ORM 全自动的插入,查询,更新,删除， an automatic database operation thread-safe and not afraid of recursive deadlock http://blog.csdn.net/li6185377 **0.5k**
+
+### 算法
+* https://github.com/parkjs814/AlgorithmVisualizer Algorithm Visualizer http://algo-visualizer.jasonpark.me ![](https://camo.githubusercontent.com/1d2e3b7d06c18d8e4e49d34cf06622b5d405b01a/687474703a2f2f692e67697068792e636f6d2f336f3645684a46677379536858364d48654d2e676966) 
+* https://github.com/kelp404/CocoaSecurity Encrypt/Decrypt: AES. Hash: MD5, SHA(SHA1, SHA224, SHA256, SHA384, SHA512). Encode/Decode: Base64, Hex. **700**
 
 ### 图文混排
 * https://github.com/waynezxcv/Gallop
@@ -626,6 +643,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/huang303513/Design-Pattern-For-iOS iOS设计模式探索 ❤️
 * https://github.com/ChenYilong/CYLTabBarController 最低只需传两个数组即可完成主流App框架搭建 **star 2.2k**
 * https://github.com/alibaba/BeeHive BeeHive是用于ios的app模块化编程的框架实现方案，吸收了Spring框架service的理念来实现模块间的API耦合。 **142**
+* https://github.com/Bupterambition/AwesomeCommand An awesome command for async operation with ReactiveCocoa https://github.com/Bupterambition/AwesomeCommand 随着业务的发展，越来越多的业务逻辑堆积到一块，日积月累后，很多业务逻辑会交叠在一起，导致后续整理的时候十分混乱，基于这个需求，我们重构command组件，整体是基于ReactiveCocoa，这样的话不需要考虑调用顺序，只需要知道考虑结果，这样每个业务逻辑可以写成一条Signal链，后续只需要对链进行管理就可以。同时，我们对AwesomeCommand的线程做了很大优化，使得执行线程和回调线程完全分离，同时保证了线程安全，这样外部调用者就只需要关系业务逻辑不需要关心线程问题。
 
 ### 其他
 * https://github.com/ZhongTaoTian/Hardest 史上最困难的游戏-By Objective-C
@@ -672,6 +690,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/JeasonWong/JikeGallery 仿即刻首页滚动效果 http://www.wangyuwei.me/2016/08/07/手摸手教你写炫酷控件/ `![](https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966)`
 * https://github.com/Yalantis/ColorMatchTabs Inspired by this project on Dribbble **384**
 * https://github.com/ttmdung203/MDGroupAvatarView MDGroupAvatarView cocoapod **71**
+* https://github.com/joedaniels29/10Clock This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer. **167**
 
 ### Charts
 * https://github.com/recruit-mtl/Graphs 
@@ -711,6 +730,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### String
 * https://github.com/delba/TextAttributes An easier way to compose attributed strings
+
+### Switch
+* https://github.com/finngaida/DayNightSwitch Dribbble inspired switch for day and night status https://dribbble.com/shots/1909289-Day-Night-Toggle-Button-GIF **203**
 
 ### Tools
 * https://github.com/dzenbot/Iconic 自动生成图标字体
@@ -803,11 +825,12 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### ❤️高仿
 * https://github.com/HansRove/XiMaLY 喜马拉雅 OC
+* https://github.com/Eastwu5788/XMLYFM 高仿喜马拉雅FM 
 * https://github.com/lookingstars/meituan 美团5.7 OC
 * https://github.com/tubie/JFMeiTuan 
-* https://github.com/callmejoejoe/XCFApp 下厨房 OC
+* https://github.com/callmejoejoe/XCFApp 下厨房 OC  ![](https://camo.githubusercontent.com/17ccf0b50553f1f8fbea383f9bae05843d2d32b4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313039393935332d366337323663396230383062363830362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970) **300** 
 * https://github.com/Jiang-Fallen/iComicReader 漫画阅读 
-* https://github.com/Ryan0520/BTApp 半塘 OC
+* https://github.com/Ryan0520/BTApp 半塘 OC ![](https://camo.githubusercontent.com/30893e5055e300699d89da79a8adc7d22410a77e/687474703a2f2f69342e7069696d672e636f6d2f663239363762333037633137356330342e676966) **323**
 * https://github.com/jiachenmu/Swift-BanTang 半糖 swift
 * https://github.com/WZF-Fei/ZFCityGuides 国家地理APP
 * https://github.com/YLWhd/MFtuicool 推酷 OC
@@ -828,6 +851,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * http://www.jianshu.com/p/c092c0d190fb# 高仿单糖app swift
 * https://github.com/iCodeForever/ifanr 高仿 爱范儿 swift
 * https://github.com/CYBoys/Timi iOS 高仿Timi记账，欢迎star，THX **138** `项目介绍非常详细：用了哪些第三方库，数据库设计，界面如何布局 etc.` ❤️
+* https://github.com/Charlesyaoxin/NeiHanDuanZI  纯干货：10几天时间纯代码高仿《内涵段子》，教你快速开发。 ![](https://camo.githubusercontent.com/0080a45b54b3b56ad05de6bd10b27978913bfab2/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933393132372d626563353737363330643630306264642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
 
 ### 笔记
 * https://github.com/Automattic/simplenote-ios Simplenote for iOS https://simplenote.com  
@@ -835,7 +860,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 电商类
 * https://github.com/twitterdev/furni-ios Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform ❤️ swift
 * https://github.com/JxbSir/YiYuanYunGou 高仿一元云购IOS应用（高仿自一元云购安卓客户端） **star 0.4k**
-* https://github.com/GPPG/GPHandMade 手工圈 oc **160+** ❤️
+* https://github.com/GPPG/GPHandMade 手工圈 oc 精仿手工课**160+** ❤️
 
 ### 工具
 * https://github.com/Flipboard/FLEX An in-app debugging and exploration tool for iOS ❤️❤️ **star 6.2k**
@@ -905,6 +930,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### 运动
 * https://github.com/enochng1/RaceMe RaceMe is a run tracking + ghosting iOS mobile application. **0.12k**
+* https://github.com/caixindong/Running-Life---iOS  Running Life (iOS版) **75** ![](https://github.com/caixindong/Running-Life---iOS/raw/master/runninglifedemo.gif)  http://caixindong.leanote.com/post/开源项目Running-Life-源码分析 
 
 ### Other 
 * https://github.com/geekcompany/ResumeSample Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 http://get.jobdeer.com/744.get **6.1k**
