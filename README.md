@@ -644,6 +644,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/ChenYilong/CYLTabBarController 最低只需传两个数组即可完成主流App框架搭建 **star 2.2k**
 * https://github.com/alibaba/BeeHive BeeHive是用于ios的app模块化编程的框架实现方案，吸收了Spring框架service的理念来实现模块间的API耦合。 **142**
 * https://github.com/Bupterambition/AwesomeCommand An awesome command for async operation with ReactiveCocoa https://github.com/Bupterambition/AwesomeCommand 随着业务的发展，越来越多的业务逻辑堆积到一块，日积月累后，很多业务逻辑会交叠在一起，导致后续整理的时候十分混乱，基于这个需求，我们重构command组件，整体是基于ReactiveCocoa，这样的话不需要考虑调用顺序，只需要知道考虑结果，这样每个业务逻辑可以写成一条Signal链，后续只需要对链进行管理就可以。同时，我们对AwesomeCommand的线程做了很大优化，使得执行线程和回调线程完全分离，同时保证了线程安全，这样外部调用者就只需要关系业务逻辑不需要关心线程问题。
+* https://github.com/wujunyang/jiaModuleDemo  一个针对iOS模块化开发的解决方案(不断完善优化中) **40**   
+  ![](https://github.com/wujunyang/jiaModuleDemo/raw/master/jiaModuleDemo/ProjectImage/7.png)
 
 ### 其他
 * https://github.com/ZhongTaoTian/Hardest 史上最困难的游戏-By Objective-C
@@ -852,6 +854,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/iCodeForever/ifanr 高仿 爱范儿 swift
 * https://github.com/CYBoys/Timi iOS 高仿Timi记账，欢迎star，THX **138** `项目介绍非常详细：用了哪些第三方库，数据库设计，界面如何布局 etc.` ❤️
 * https://github.com/Charlesyaoxin/NeiHanDuanZI  纯干货：10几天时间纯代码高仿《内涵段子》，教你快速开发。 ![](https://camo.githubusercontent.com/0080a45b54b3b56ad05de6bd10b27978913bfab2/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933393132372d626563353737363330643630306264642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+* https://github.com/12207480/LovePlayNews LovePlayNews精仿爱玩app，使用AsyncDisplayKit提高UI流畅性，项目结构及代码清晰明了。 **41**
 
 
 ### 笔记
