@@ -478,6 +478,7 @@ github整理
 * https://github.com/0xced/XCDYouTubeKit YouTube video player for iOS, tvOS and OS X **star 1.6k**
 * https://github.com/viki-org/VKVideoPlayer VKVideoPlayer is the same battle tested video player used in our Viki iOS App enjoyed by millions of users all around the world. **star 1.3k**
 * https://github.com/omergul123/LLSimpleCamera A simple, customizable camera control - video recorder for iOS. **0.8k**
+* https://github.com/Damonvvong/iOSDevNotes 个人开发笔记。关于 iOS 的小技巧、原理、及一些个人的开发经验 微信小视屏模仿 - AVFoundation 入门
 
 ### VR
 * https://github.com/Aralekk/VR_Toolkit_iOS
@@ -518,7 +519,7 @@ github整理
 
 ### 博客/周报/干货
 * https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly 百度Hi团队 iOS 技术周报
-* https://github.com/Draveness/iOS-Source-Code-Analyze 深入解析 iOS 开源项目 **2.5k**
+* https://github.com/Draveness/iOS-Source-Code-Analyze 深入解析 iOS 开源项目 **2.5k** 💕💕💕 http://draveness.me
 * https://github.com/everettjf/TomatoRead | 番茄阅读 - 精选 iOS / OS X 开发者博客
 * https://github.com/jobbole/awesome-ios-cn iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等 ❤️
 * http://www.jianshu.com/collection/4c98edfd9607 优雅的iOS技术博客
