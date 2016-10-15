@@ -58,6 +58,7 @@ github整理
 * https://github.com/AlfredTheBest/iOS_core_animation 📙iOS核心动画高级技巧 **57**
 * https://github.com/Josin22/JSWave 如何实现百度外卖APP个人中心头像"浪"起来的动画效果 更多详细说明请移步我的博客 http://qiaotongxin.cc/2016/08/22/20160822/ 
 * https://github.com/Josin22/JSDownloadView 精巧顺滑的下载动画 http://qiaotongxin.cc/2016/08/30/20160830/ 
+* https://github.com/lfny2580832/NYTubeAnimation 页面切换指示动画 ![](https://github.com/lfny2580832/NYTubeAnimation/raw/master/demo.gif)
 
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -132,6 +133,9 @@ github整理
 ### File
 * https://github.com/ZipArchive/ZipArchive zip ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac. **2k**
 
+### iOS Game
+* https://github.com/danqing/2048 The iOS version of 2048, made using SpriteKit ![](https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567)
+
 ### Guider
 * https://github.com/zhouhuanqiang/AdvertisingPageDemo 启动广告
 * https://github.com/StoneLeon/STLBGVideo 启动视频
@@ -146,6 +150,7 @@ github整理
 ### HUD
 * https://github.com/SVProgressHUD/SVProgressHUD  A clean and lightweight progress HUD for your iOS and tvOS app.  **8.23k**
 * https://github.com/jdg/MBProgressHUD MBProgressHUD + Customizations http://www.bukovinski.com/ **11K**
+* https://github.com/IMCCP/CCPAFNNetworking AFN与MBProgressHUD的组合封装  **28**
 
 ### Interview-Questions
 * https://github.com/lzyy/iOS-Developer-Interview-Questions 面试 iOS 开发时可以问的一些问题 **0.7k**
@@ -224,6 +229,9 @@ github整理
 * https://github.com/MatthewYork/DateTools Dates and times made easy in Objective-C **4.5k**
 * https://github.com/erica/NSDate-Extensions Practical real-world dates **1.1k** *swfit*
 
+### NSFileManager
+* https://github.com/castial/HYFileManager HYFileManager is a powerful util based on NSFileManager. HYFileManager一个基于NSFileManager的文件操作类，它提供一系列的静态方法，只用少量的代码，来处理经常需要处理的文件操作，使得工作更加方便快捷。 **41**
+
 ### NSNotification
 * https://github.com/cwRichardKim/RKNotificationHub 通知
 * https://github.com/cruffenach/CRToast A modern iOS toast view that can fit your notification needs **star 3.3k**
@@ -260,6 +268,7 @@ github整理
 ### QRCode
 * https://github.com/MxABC/LBXScan barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装) **star 920+**
 * https://github.com/KevinGong2013/ChineseIDCardOCR 🇨🇳中国二代身份证光学识别 **371**
+* https://github.com/kingsic/SGQRCode    Generation and scanning of iOS primary two-dimensional code and the scanning of bar code (QRCode)（iOS原生二维码生成与扫描以及条形码的扫描）
 
 ### React Native 
 * https://github.com/crazycodeboy/RNStudyNotes React Native 学习笔记 **308**
@@ -321,6 +330,9 @@ github整理
 * https://github.com/noodlewerk/NWPusher OS X and iOS application and framework to play with the Apple Push Notification service (APNs) **1.6k**
 * https://github.com/moshuqi/PieceDiary/tree/master  iOS日记应用 九宫格日记应用 **100**
 * https://github.com/BestJoker/FJSParallaxCollectionView  模仿微博电影的视觉差效果. ![](https://github.com/BestJoker/FJSParallaxCollectionView/raw/master/FJSParallax.gif?raw=true) **26**
+* https://github.com/gavinkwoe/BeeFramework  [Experimental] A semi-hybrid framework that allows you to create mobile apps using Objective-C and XML/CSS  ![](https://cloud.githubusercontent.com/assets/679824/3976224/18fce0bc-281c-11e4-865c-3cedac069fbf.png)  ![](https://cloud.githubusercontent.com/assets/679824/3976226/26716650-281c-11e4-99f0-c8d12e9b9624.png)  **3k+**   💕💕💕
+* https://github.com/YvanLiu/HeartBeatsPlugin 手机摄像头测心率 带心率折线图 和 返回瞬时心率 **100**
+* https://github.com/devcxm/iOS-Images-Extractor  一台Mac应用程序解码，并从iOS应用程序中提取图像，支持PNG / JPG / IPA / Assets.car文件。 ![](https://cloud.githubusercontent.com/assets/8568955/7927878/874f0594-0918-11e5-9fe3-452372f5affd.gif)
 
 ### UICollectionView
 * https://github.com/yixiangboy/YXCollectionView UICollection学习总结以及案例集合 **star 290+**
@@ -336,7 +348,7 @@ github整理
 	*	MLTagViewFrameRecord可以记录当前的布局结构，但是前提是需要缓存frame的view需要有独特的tag用以之后将记录应用到对应的view上。
 	*	MLTagViewFrameRecord相关的TableView和TableViewCell呢，提供了自动缓存cell布局(当然顺带也有高度啦)的实现，这样的话能保证同一行的布局只会计算一次，除非显式reload。这个能大大的提高列表的滚动性能。
 	*	FlexBox教程: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool 
- * https://github.com/jamztang/CSStickyHeaderFlowLayout ❤️ UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7. https://medium.com/ios-apprentice/43e943e6627 **star 3.9k**
+ * https://github.com/jamztang/CSStickyHeaderFlowLayout ❤️ UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7. https://medium.com/ios-apprentice/43e943e6627 **star 4.4k** ![](https://camo.githubusercontent.com/3aab9bc8e28dcde1a0fcd92eeac9d5ccf2507368/687474703a2f2f662e636c2e6c792f6974656d732f30353133307332723058316a3178314e3051336e2f73706f746966792d34382d31362d68616c662e676966) ![](https://camo.githubusercontent.com/6b3e2209c0d3634fdd1fccbc8adc1a9276be9e80/687474703a2f2f662e636c2e6c792f6974656d732f3371327533353031336f30793047326f335831762f63617273686172652d33322d31362d68616c662e676966)
  * https://github.com/betzerra/MosaicLayout MosaicLayout using UICollectionViews
  * https://github.com/zhengwenming/WeChat 模仿微信朋友圈
  * https://github.com/hebertialmeida/HAPaperViewController UICollectionView with layout transitions inspired by Facebook Paper App
@@ -353,6 +365,7 @@ github整理
  * https://github.com/sibahota059/SPHChatCollectionView SPHChatCollectionView to use in chat screens. (Supports iOS 8) **0.4k**
  * https://github.com/zhengwenming/WeChat 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
  * https://github.com/PageGuo/NewPagedFlowView 电影票卡片式无限自动轮播图 ![](https://github.com/PageGuo/NewPagedFlowView/raw/master/gif/NewPagedFlowViewGif.gif)
+ * https://github.com/zhangsuya/SYStickHeaderWaterFall  Help you easily complete UICollectionView layout such as waterfalls flow and the header to stay and so on ![](https://github.com/zhangsuya/SYStickHeaderWaterFall/raw/master/SYStickHeaderWaterFall/2.gif)
 
 ### UIImage
 * https://github.com/BradLarson/GPUImage An open source iOS framework for GPU-based image and video processing http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework 
@@ -407,7 +420,7 @@ github整理
  	
 ### UITableView
 * https://github.com/liao3841054/AppStore-Horizontal-Demo 仿半糖App 个人中心可以横向滚动的 列表 UICollectionView UITableView UISrcrollView
-* https://github.com/gskbyte/GSKStretchyHeaderView A generic stretchy header for UITableView and UICollectionView
+* https://github.com/gskbyte/GSKStretchyHeaderView A generic stretchy header for UITableView and UICollectionView ![](https://raw.githubusercontent.com/gskbyte/GSKStretchyHeaderView/master/screenshots/airbnb_small.gif)
 * https://github.com/manuelescrig/MEVFloatingButton An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it. 加载更多之后有一个返回上一页的按钮
 * https://github.com/liuzhiyi1992/ZYThumbnailTableView a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy 可展开型预览TableView
 * https://github.com/wuyuedefeng/WSTableviewTree 可折叠展开的tableview, tableview folder.你可以像定义普通cell一样定义subrow的cell进行自定义美化
@@ -418,6 +431,7 @@ github整理
 * https://github.com/ZhipingYang/UUChatTableView Cocoa UI component for group or private chat bubbles with text, images and audio support **star 1.3k**
 * https://github.com/relatedcode/RealtimeChat This is a full native iPhone app to create realtime, text based group or private chat with Parse and Firebase. **star 0.8k**
 * https://github.com/josshad/EHHorizontalSelectionView  Horizontal table view style controller **132** ![](https://camo.githubusercontent.com/37c8d3751d8b26e0067d72a0f0e0c404c8d8efa5/68747470733a2f2f6a6f73736861642e6769746875622e696f2f4548486f72697a6f6e74616c53656c656374696f6e566965772f454853656c566965772e676966)
+* https://github.com/Kilograpp/UITableView-Cache UITableView cell cache that cures scroll-lags on a cell instantiating   
 
 ### UITableViewCell 
 * https://github.com/MortimerGoro/MGSwipeTableCell An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.  **star 3.8k**
@@ -463,6 +477,9 @@ github整理
 ### UIViewController
 * https://github.com/LeoNatan/LNPopupController LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps. **star 1.2k**
 * https://github.com/jessesquires/JSQMessagesViewController An elegant messages UI library for iOS http://jessesquires.com/JSQMessagesViewController/ **8.6k**
+
+### URL 
+* https://github.com/joeldev/JLRoutes URL routing library for iOS with a simple block-based API
 
 ### Video
 * https://github.com/hanton/HTY360Player Open Source iOS 360 Degree Panorama Video Player. https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
@@ -551,10 +568,14 @@ github整理
 * http://blog.jobbole.com/104313/ 同上+-
 * http://limboy.me/tech/2014/04/15/use-objection-to-decouple-ios-project.html 使用objection来模块化开发iOS项目 依赖注入 
 * https://segmentfault.com/a/1190000006266276  iOS 客户端基于 WebP 图片格式的流量优化（上） 
+* https://github.com/spotify/HubFramework https://github.com/spotify/HubFramework **1000**  💕💕💕
 
 
 ### 代码规范
 * https://github.com/samlaudev/Objective-C-Coding-Style aywenderlich Objective-C的编码规范
+
+### 混合开发
+* https://github.com/douban/rexxar-ios Mobile Hybrid Framework Rexxar iOS Container Rexxar 是一个针对移动端的混合开发框架。现在支持 Android 和 iOS 平台。Rexxar-iOS 是 Rexxar 在 iOS 系统上的客户端实现。 豆瓣开发组 💕💕💕
 
 ### 日常必备
 * https://github.com/CoderJackyHuang/HYBHelperKit UIBlockKit、UIMakerKit、UIHelperKit、CommonKit、FoundationKit、Controllers等集于一身的神器！
@@ -632,6 +653,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/shu223/iOS-9-Sampler Code examples for the new features of iOS 9. **star 3.4k**
 * https://github.com/ChenYilong/iOS9AdaptationTips iOS9适配
 
+### 优化x性能
+* https://github.com/music4kid/PMainThreadWatcher iOS platform tool, watch UI thread, report slow call stack. http://mrpeak.cn
+
 ### 正则表达式
 * https://github.com/EdwinXiang/RegularExpression 使用正则表达式判断输入字符串是否正确；例如一些常用的电话号码判断，密码复杂度判断，URL地址判断，邮箱地址判断，IP地址判断等等；
 
@@ -645,7 +669,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/ChenYilong/CYLTabBarController 最低只需传两个数组即可完成主流App框架搭建 **star 2.2k**
 * https://github.com/alibaba/BeeHive BeeHive是用于ios的app模块化编程的框架实现方案，吸收了Spring框架service的理念来实现模块间的API耦合。 **142**
 * https://github.com/Bupterambition/AwesomeCommand An awesome command for async operation with ReactiveCocoa https://github.com/Bupterambition/AwesomeCommand 随着业务的发展，越来越多的业务逻辑堆积到一块，日积月累后，很多业务逻辑会交叠在一起，导致后续整理的时候十分混乱，基于这个需求，我们重构command组件，整体是基于ReactiveCocoa，这样的话不需要考虑调用顺序，只需要知道考虑结果，这样每个业务逻辑可以写成一条Signal链，后续只需要对链进行管理就可以。同时，我们对AwesomeCommand的线程做了很大优化，使得执行线程和回调线程完全分离，同时保证了线程安全，这样外部调用者就只需要关系业务逻辑不需要关心线程问题。
-* https://github.com/wujunyang/jiaModuleDemo  一个针对iOS模块化开发的解决方案(不断完善优化中) **40**   
+* https://github.com/wujunyang/jiaModuleDemo  一个针对iOS模块化开发的解决方案(不断完善优化中) **80**   
   ![](https://github.com/wujunyang/jiaModuleDemo/raw/master/jiaModuleDemo/ProjectImage/7.png)
 
 ### 其他
@@ -720,9 +744,11 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### Net
 * https://github.com/Alamofire/Alamofire Elegant HTTP Networking in Swift **18k**
+* https://github.com/iOSSinger/SGNetObserver  iOS完美的网络状态判断工具 **88**
 
 ### PageControl
 * https://github.com/popwarsweet/PageControls This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection **156**
+* https://github.com/yeatse/YTPageController Yet another drop-in replacement of `UIPageViewController`, inspired by Apple's offical Music app.  ![](https://github.com/yeatse/YTPageController/raw/master/snapshot0.gif)
 
 ### Photo
 * https://github.com/Roylee-ML/PrismaSimpleImagePicker This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor **0.12k** 
@@ -783,6 +809,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * http://lihei12345.github.io/2016/08/16/swift-foundation/ Swift实践初探
 * https://github.com/yrq110/Some_IOS_Tutorials_With_Swift 一些使用Swift的iOS教程 
 * http://www.jianshu.com/p/a5b6d5efce88 [译]百里挑一：21个优质Swift开源App  原文链接：https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e#.ug7rr6ki5 ❤❤❤
+* https://github.com/jobbole/ProgrammingProjectList 有了这个列表，程序员不愁没练手的小项目了  这个列表原本首发在伯乐在线的一篇译文：http://blog.jobbole.com/49762/。2016年9月21日，该文章推送到微信公众号 程序员的那些事 （ID: iProgrammer ) 后，@BleethNie 留言建议把这 120+ 练手小项目统一放在一个地方，同时其他人可以把自己完成项目提交合并到一起，相互参考学习。于是我们在 GitHub 创建了这个项目。后续会以超链的形式合并大家提交的成果到这个列表。欢迎 fork & star，并扩散给更多人。
+
+下面列出 120 多个项目构思，根据主题分成了 10 个分类。
 
 ### 全栈工程师
 * https://github.com/geekcompany/full-stack-tree 全栈工程师技能树 **0.5k**
@@ -828,7 +857,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### ❤️高仿
 * https://github.com/HansRove/XiMaLY 喜马拉雅 OC
-* https://github.com/Eastwu5788/XMLYFM 高仿喜马拉雅FM 
+* https://github.com/Eastwu5788/XMLYFM 高仿喜马拉雅FM 💕💕💕
 * https://github.com/lookingstars/meituan 美团5.7 OC
 * https://github.com/tubie/JFMeiTuan 
 * https://github.com/callmejoejoe/XCFApp 下厨房 OC  ![](https://camo.githubusercontent.com/17ccf0b50553f1f8fbea383f9bae05843d2d32b4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313039393935332d366337323663396230383062363830362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970) **300** 
@@ -856,6 +885,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/CYBoys/Timi iOS 高仿Timi记账，欢迎star，THX **138** `项目介绍非常详细：用了哪些第三方库，数据库设计，界面如何布局 etc.` ❤️
 * https://github.com/Charlesyaoxin/NeiHanDuanZI  纯干货：10几天时间纯代码高仿《内涵段子》，教你快速开发。 ![](https://camo.githubusercontent.com/0080a45b54b3b56ad05de6bd10b27978913bfab2/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933393132372d626563353737363330643630306264642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
 * https://github.com/12207480/LovePlayNews LovePlayNews精仿爱玩app，使用AsyncDisplayKit提高UI流畅性，项目结构及代码清晰明了。 **41**
+* https://github.com/XiaoXiaoMuChen/MCXiaoHongShu 仿小红书 
 
 
 ### 笔记
