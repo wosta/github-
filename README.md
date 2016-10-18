@@ -276,6 +276,7 @@ github整理
 
 ### Runtime
 * http://iipanda.com/2016/05/11/Runtime实战之定制TabBarItem大小/ Runtime实战之定制TabBarItem大小
+* https://github.com/minggo620/iOSRuntimeLearn Runtime机制编程 ![](https://camo.githubusercontent.com/584dbc438463933d7fd39d5811a0e35b2cbaf647/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313235323633382d326664303634356332303631323261392e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430) ![](https://github.com/minggo620/iOSRuntimeLearn/raw/master/picture/runtime.gif?raw=true)
 
 ### ScrollPhoto
 * https://github.com/codingZero/XRCarouselView 史上最简单的图片轮播，秒集成，同时支持本地与网络图片，自带缓存，不依赖任何第三方库，可左右滚动与淡入淡出 
@@ -303,6 +304,10 @@ github整理
 * https://github.com/xhzengAIB/TagView  High efficiency Tag components. ❤️
 * https://github.com/zekunyan/TTGTagCollectionView
 * https://github.com/andreamazz/AMTagListView UIScrollView subclass that allows to add a list of highly customizable tags. 
+
+### Thread
+* https://github.com/minggo620/iOSMutipleThread iOS 多线程编程 ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/multiplethread1.png?raw=true) ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/mutiplethread1.gif?raw=true) ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/mutiplethread2.gif?raw=true) ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/mutiplethread3.gif?raw=true)
+* 
 
 ### Tools
 * https://github.com/leeSmile/tools 项目中常用到的一些分类及工具类
