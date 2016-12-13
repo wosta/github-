@@ -59,6 +59,7 @@ github整理
 * https://github.com/Josin22/JSWave 如何实现百度外卖APP个人中心头像"浪"起来的动画效果 更多详细说明请移步我的博客 http://qiaotongxin.cc/2016/08/22/20160822/ 
 * https://github.com/Josin22/JSDownloadView 精巧顺滑的下载动画 http://qiaotongxin.cc/2016/08/30/20160830/ 
 * https://github.com/lfny2580832/NYTubeAnimation 页面切换指示动画 ![](https://github.com/lfny2580832/NYTubeAnimation/raw/master/demo.gif)
+* https://github.com/jkpang/PPCounter 一款使用简单的金额数字增减动效控件,支持UILabel、UIButton显示 ![](https://github.com/jkpang/PPCounter/raw/master/PPCounter.gif)
 
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -104,6 +105,9 @@ github整理
 * https://github.com/unixzii/Daysquare An elegant calendar control for iOS.
 * https://github.com/WenchaoD/FSCalendar A superiorly awesome iOS7+ calendar control, compatible with both Objective-C and Swift2
 * https://github.com/wanggang316/ZBJCalendar ZBJCalendar is a simple calendar framework for iOS.
+* https://github.com/cyanzhong/LunarCore *已上线*
+* https://github.com/WenchaoD/FSCalendar *2300+* /Users/olive/Library/Containers/at.EternalStorms.Yoink/Data/Documents/YoinkPromisedFiles/yoinkFilePromiseCreationFolder64B0B487-9948-4D46-8EB0-15BB961EBA8E/add64B0B487-9948-4D46-8EB0-15BB961EBA8E/dd0f6bb4-a1c3-11e6-8fed-6aabbf999161.jpg
+
 
 ### Category
 * https://github.com/shaojiankui/JKCategories JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc. **star  1.9k**
@@ -118,9 +122,13 @@ github整理
 * https://github.com/Jawbone/JBChartView iOS-based charting library for both line and bar graphs. **star 3.3k**
 * https://github.com/danielgindi/Charts Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. **star 10k** ❤️
 * https://github.com/kevinzhow/PNChart  A simple and beautiful chart lib used in Piner and CoinsMan for iOS **7.1k**
-* https://github.com/leancloud/ChatKit-OC An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US. ChatKit 是一个免费且开源的 UI 聊天组件，自带云服务器，自带推送，支持消息漫游，消息永久存储。  **980+**
 * https://github.com/Pluto-Y/iOS-Echarts 一个charts的汇总 **500k**
 
+
+### Chat 聊天
+* https://github.com/netease-im/NIM_iOS_UIKit 网易云信iOS UI组件源码仓库 **1k+** 
+* https://github.com/leancloud/ChatKit-OC An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US. ChatKit 是一个免费且开源的 UI 聊天组件，自带云服务器，自带推送，支持消息漫游，消息永久存储。  **980+**
+ 
 ### Color
 * https://github.com/ViccAlexander/Chameleon Flat Color Framework for iOS (Obj-C & Swift) **6800**
 
@@ -140,7 +148,7 @@ github整理
 * https://github.com/zhouhuanqiang/AdvertisingPageDemo 启动广告
 * https://github.com/StoneLeon/STLBGVideo 启动视频
 * https://github.com/mamaral/Onboard  An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code. ❤️ **star 3.9k**
-* https://github.com/CoderZhuXH/XHLaunchAd 几行代码实现启动页广告功能 - 支持静态/动态广告
+* https://github.com/CoderZhuXH/XHLaunchAd 几行代码实现启动页广告功能 - 支持静态/动态广告 *769*
 * https://github.com/AllLuckly/LBLaunchImageAd iOS开发启动广告，动态获取网络启动图片，具有渐变的启动动画，支持半屏和全屏，类似百度ssp广告和广点通的广告。支持广告点击等，集成非常的方便。欢迎使用，好用请star https://allluckly.cn **153**
 
 ### HTML
@@ -431,7 +439,7 @@ github整理
 * https://github.com/wuyuedefeng/WSTableviewTree 可折叠展开的tableview, tableview folder.你可以像定义普通cell一样定义subrow的cell进行自定义美化
 * https://github.com/brocoo/BRFlabbyTable Bouncy and distorded table view cells
 * https://github.com/JackTeam/XHFeed 类似你喜欢的微博主页列表、SNS评论列表、分享图片列表、都是图文并茂的UITableView，自定义UITableViewCell
-* https://github.com/dzenbot/DZNEmptyDataSet A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display. https://www.cocoacontrols.com/controls/dznemptydataset **star 5.7k** UITableView为空时默认显示图片
+* https://github.com/dzenbot/DZNEmptyDataSet A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display. https://www.cocoacontrols.com/controls/dznemptydataset **star 6.9k** UITableView为空时默认显示图片
 * https://github.com/JerryLoveRice/JRPlaceHolder Very easy to use the tableView placeholders, zero cost to integration **0.051k** UITableView为空时默认显示图片 国人写的，英文不错，有用到runtime
 * https://github.com/ZhipingYang/UUChatTableView Cocoa UI component for group or private chat bubbles with text, images and audio support **star 1.3k**
 * https://github.com/relatedcode/RealtimeChat This is a full native iPhone app to create realtime, text based group or private chat with Parse and Firebase. **star 0.8k**
@@ -480,7 +488,7 @@ github整理
 * https://github.com/zzyspace/ZYDraggableView An UIView category which make view become draggable. **114**
 
 ### UIViewController
-* https://github.com/LeoNatan/LNPopupController LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps. **star 1.2k**
+* https://github.com/LeoNatan/LNPopupController LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps. **star 1.4k** ![](https://github.com/LeoNatan/LNPopupController/blob/master/Supplements/open_modern_popup.gif)
 * https://github.com/jessesquires/JSQMessagesViewController An elegant messages UI library for iOS http://jessesquires.com/JSQMessagesViewController/ **8.6k**
 
 ### URL 
@@ -629,6 +637,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/huangxuan518/HXFlexoView 
 
 ### 网络/通讯
+* https://github.com/casatwy/RTNetworking  The networking layer for iOS App. http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html
 * https://github.com/xincc/CCRequest 一个不用和后端干架的网络层解决方案(A Dancing HTTP request framework) **157**
 * https://github.com/Soulghost/SGWiFiUpload 通过WiFi将电脑上传文件到手机
 * http://www.jianshu.com/p/e69d77d97a5e zip解压
@@ -695,6 +704,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### Alert
 * https://github.com/nishimao/FeedbackKit This is useful tool to send feedback in ios app development. **117**
+* https://github.com/dhirajjadhao/Newly 
 
 ### Animations
 * https://github.com/JakeLin/SaveTheDot A game developed using UIViewPropertyAnimator
@@ -891,7 +901,9 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/Charlesyaoxin/NeiHanDuanZI  纯干货：10几天时间纯代码高仿《内涵段子》，教你快速开发。 ![](https://camo.githubusercontent.com/0080a45b54b3b56ad05de6bd10b27978913bfab2/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933393132372d626563353737363330643630306264642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
 * https://github.com/12207480/LovePlayNews LovePlayNews精仿爱玩app，使用AsyncDisplayKit提高UI流畅性，项目结构及代码清晰明了。 **41**
 * https://github.com/XiaoXiaoMuChen/MCXiaoHongShu 仿小红书 
-
+* https://github.com/Bupterambition/xueyoubangbang Sharingpop Official App 学有帮帮 
+* https://github.com/LinXunFeng/LXFFM 高仿喜马拉雅FM swift 3.0
+* https://github.com/CoderVan/Yeshijia-APP 高仿 悦食家APP 相似度 *95* ![](https://camo.githubusercontent.com/753072cb9edfdd9778bf5b141d60f2c69b233426/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3635313836392d666639636437643539646637386166322e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
 
 ### 笔记
 * https://github.com/Automattic/simplenote-ios Simplenote for iOS https://simplenote.com  
@@ -919,9 +931,6 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/mogujie/TeamTalk TeamTalk is a solution for enterprise IM **3.4K**
 * https://github.com/overtake/telegram Source code of Telegram for OSX http://telegram.org **1k**
 * https://github.com/wireapp/wire-ios Wire iOS client (iPhone and iPad) https://wire.com/download/ios/ ❤️ **0.56k**
-
-### 日历
-* https://github.com/cyanzhong/LunarCore *已上线*
 
 ### 视频
 * https://github.com/SunLiner/MiaowShow iOS视频直播项目
