@@ -9,7 +9,7 @@ github整理
 
 ### A
 * https://github.com/vsouza/awesome-ios ❤️❤️❤️ A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects http://awesomeios.com **star 13k**
-* https://github.com/Tim9Liu9/TimLiu-iOS 自己总结的iOS、mac开源项目及库，持续更新。。。。 **star 3.7k**
+* https://github.com/Tim9Liu9/TimLiu-iOS 自己总结的iOS、mac开源项目及库，持续更新。。。。 **star 5.6k** ❤️❤️❤️❤️❤️
 * https://github.com/cjwirth/awesome-ios-ui A curated list of awesome iOS UI/UX libraries **star 8k**
 * https://github.com/Grouper/FlatUIKit A collection of awesome flat UI components for iOS. **7k**
 * https://github.com/Aufree/trip-to-iOS A curated list of delightful iOS resources. **5.8k**
@@ -60,6 +60,7 @@ github整理
 * https://github.com/Josin22/JSDownloadView 精巧顺滑的下载动画 http://qiaotongxin.cc/2016/08/30/20160830/ 
 * https://github.com/lfny2580832/NYTubeAnimation 页面切换指示动画 ![](https://github.com/lfny2580832/NYTubeAnimation/raw/master/demo.gif)
 * https://github.com/jkpang/PPCounter 一款使用简单的金额数字增减动效控件,支持UILabel、UIButton显示 ![](https://github.com/jkpang/PPCounter/raw/master/PPCounter.gif)
+* https://github.com/PandaraWen/WaterDropViewDemo ![](https://camo.githubusercontent.com/f963e28aa1b91d01097d96e925590a86ac54df33/687474703a2f2f376c733075652e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f323031352f31312f32332f77617465725f64726f7077617465725f64726f702e6769663f696d61676556696577322f322f772f343030)
 
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -122,7 +123,7 @@ github整理
 * https://github.com/Jawbone/JBChartView iOS-based charting library for both line and bar graphs. **star 3.3k**
 * https://github.com/danielgindi/Charts Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. **star 10k** ❤️
 * https://github.com/kevinzhow/PNChart  A simple and beautiful chart lib used in Piner and CoinsMan for iOS **7.1k**
-* https://github.com/Pluto-Y/iOS-Echarts 一个charts的汇总 **500k**
+* https://github.com/Pluto-Y/iOS-Echarts 一个charts的汇总 **0.9k**
 
 
 ### Chat 聊天
@@ -346,6 +347,7 @@ github整理
 * https://github.com/gavinkwoe/BeeFramework  [Experimental] A semi-hybrid framework that allows you to create mobile apps using Objective-C and XML/CSS  ![](https://cloud.githubusercontent.com/assets/679824/3976224/18fce0bc-281c-11e4-865c-3cedac069fbf.png)  ![](https://cloud.githubusercontent.com/assets/679824/3976226/26716650-281c-11e4-99f0-c8d12e9b9624.png)  **3k+**   💕💕💕
 * https://github.com/YvanLiu/HeartBeatsPlugin 手机摄像头测心率 带心率折线图 和 返回瞬时心率 **100**
 * https://github.com/devcxm/iOS-Images-Extractor  一台Mac应用程序解码，并从iOS应用程序中提取图像，支持PNG / JPG / IPA / Assets.car文件。 ![](https://cloud.githubusercontent.com/assets/8568955/7927878/874f0594-0918-11e5-9fe3-452372f5affd.gif)
+* https://github.com/jkpang/PPRows?utm_source=gank.io&utm_medium=email It Can Calculate how many lines of code you write on Mac ; 在Mac上优雅的计算你写了多少行代码 [](https://github.com/jkpang/PPRows/blob/master/source/Gif1.gif)
 
 ### UICollectionView
 * https://github.com/yixiangboy/YXCollectionView UICollection学习总结以及案例集合 **star 290+**
@@ -451,6 +453,7 @@ github整理
 * https://github.com/CEWendel/SWTableViewCell An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application) **6.2k**
 * https://github.com/mariohahn/MHVideoPhotoGallery A Photo and Video Gallery **star 1.7k**
 * https://github.com/JC-Hu/JHCellConfig Flexible way to build a UITableView contains different kinds of cells, without switch...case, super easy to modify.- 一种十分灵活易变的适用于创建有多种cell的UITableView的方法，不需要使用switch...case，在调整不同种cell的顺序、及增删某种cell时极其方便 **0.17k**
+* https://github.com/bref-Chan/CCFoldCell Cell折叠动效(OC实现) **280** ![](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
 ### UITableViewHeader
  * https://github.com/iThinkerYZ/YZHeaderScaleImage 快速集成tableView中头部缩放视图 **50**
@@ -701,6 +704,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/hsavit1/Awesome-Swift-Education **star 4790+**
 * https://github.com/numbbbbb/the-swift-programming-language-in-chinese 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 http://gg.swiftguide.cn **star 15k**
 * https://github.com/cjiong/LearnSwift One hundred days, fifty projects. 100天，50个工程 **171**
+* https://github.com/twostraws/HackingWithSwift The project source code for hackingwithswift.com **1800+** 💕 https://www.hackingwithswift.com
+* https://github.com/SwiftOldDriver/SwiftMarch 从开发者角度介绍被广泛运用于实际Swift项目中的开源库。 **253+**
 
 ### Alert
 * https://github.com/nishimao/FeedbackKit This is useful tool to send feedback in ios app development. **117**
@@ -904,6 +909,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/Bupterambition/xueyoubangbang Sharingpop Official App 学有帮帮 
 * https://github.com/LinXunFeng/LXFFM 高仿喜马拉雅FM swift 3.0
 * https://github.com/CoderVan/Yeshijia-APP 高仿 悦食家APP 相似度 *95* ![](https://camo.githubusercontent.com/753072cb9edfdd9778bf5b141d60f2c69b233426/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3635313836392d666639636437643539646637386166322e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+* https://github.com/Seanwong933/WeChat 仿微信，注释齐全，方便初学者食用。 *60*
 
 ### 笔记
 * https://github.com/Automattic/simplenote-ios Simplenote for iOS https://simplenote.com  
@@ -912,6 +918,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/twitterdev/furni-ios Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform ❤️ swift
 * https://github.com/JxbSir/YiYuanYunGou 高仿一元云购IOS应用（高仿自一元云购安卓客户端） **star 0.4k**
 * https://github.com/GPPG/GPHandMade 手工圈 oc 精仿手工课**160+** ❤️
+* https://github.com/kickstarter/ios-oss Kickstarter for iOS. Bring new ideas to life, anywhere. https://www.kickstarter.com/mobile
 
 ### 工具
 * https://github.com/Flipboard/FLEX An in-app debugging and exploration tool for iOS ❤️❤️ **star 6.2k**
