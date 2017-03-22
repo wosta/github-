@@ -61,6 +61,7 @@ github整理
 * https://github.com/lfny2580832/NYTubeAnimation 页面切换指示动画 ![](https://github.com/lfny2580832/NYTubeAnimation/raw/master/demo.gif)
 * https://github.com/jkpang/PPCounter 一款使用简单的金额数字增减动效控件,支持UILabel、UIButton显示 ![](https://github.com/jkpang/PPCounter/raw/master/PPCounter.gif)
 * https://github.com/PandaraWen/WaterDropViewDemo ![](https://camo.githubusercontent.com/f963e28aa1b91d01097d96e925590a86ac54df33/687474703a2f2f376c733075652e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f323031352f31312f32332f77617465725f64726f7077617465725f64726f702e6769663f696d61676556696577322f322f772f343030)
+* https://github.com/airbnb/lottie-ios  An iOS library to natively render After Effects vector animations http://airbnb.design/lottie/ ![](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif)
 
 ### AppUpdate
 * https://github.com/apptality/ATAppUpdater Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -177,7 +178,7 @@ github整理
 * JSPatch https://github.com/bang590/JSPatch | 如何动态调用 C 函数: http://mp.weixin.qq.com/s?__biz=MzIzNTQ2MDg2Ng==&mid=2247483687&idx=1&sn=94d3ce224e5e25f2e1ae8a6046efb472#rd
 
 ### Keyboard 
-* https://github.com/slackhq/SlackTextViewController A drop-in UIViewController subclass with a growing text input view and other useful messaging features http://www.slack.com **star 6k+**
+* https://github.com/slackhq/SlackTextViewController A drop-in UIViewController subclass with a growing text input view and other useful messaging features http://www.slack.com **star 7k+** ![](https://github.com/slackhq/SlackTextViewController/blob/master/Screenshots/slacktextviewcontroller_demo.gif)
 * https://github.com/michaeltyson/TPKeyboardAvoiding A drop-in universal solution for moving text fields out of the way of the keyboard in iOS http://atastypixel.com/blog/a-drop-in-universal-solution-for-moving-text-fields-out-of-the-way-of-the-keyboard/ **star 4580+**
 * https://github.com/hackiftekhar/IQKeyboardManager Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. ❤️**star 6.3**
 
@@ -218,7 +219,7 @@ github整理
 * https://github.com/ibireme/YYModel 
 * https://github.com/jsonmodel/jsonmodel **5.3k**
 * https://github.com/CoderMJLee/MJExtension **5.6k**
-* https://github.com/Mantle/Mantle **9.5k**
+* https://github.com/Mantle/Mantle **10k**
 * https://github.com/matthewcheok/Realm-JSON A concise Mantle-like way of working with Realm and JSON. **0.5k**
 * https://github.com/marcoarment/FCModel  An alternative to Core Data for people who like having direct SQL access. **1.5k**
 * https://github.com/Ahmed-Ali/JSONExport JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. **1.5k**
@@ -232,11 +233,13 @@ github整理
 * https://github.com/lovemo/MVVMFramework (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。
 * https://github.com/lizelu/MVVM 一个MVVM架构的iOS工程 http://www.cnblogs.com/ludashi/p/4211556.html **star 0.45k**
 * https://github.com/boai/BABaseProject 一个基于 MVVM 和 MVC 设计模式的基本项目框架，项目用到的各种类，各种封装，各种三方库的综合项目
+* https://github.com/saitjr/ReactiveCocoa-MVVM-AFNetworking-FMDB ReactiveCocoa-MVVM-AFNetworking-FMDB小项目框架设计 http://www.saitjr.com/ios/ios-framewo… **100+**
 
 ### NSDate
 * https://github.com/kevinlawler/NSDate-TimeAgo A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad **star 1.4k**
 * https://github.com/MatthewYork/DateTools Dates and times made easy in Objective-C **4.5k**
 * https://github.com/erica/NSDate-Extensions Practical real-world dates **1.1k** *swfit*
+* https://github.com/billymeltdown/nsdate-helper A category to extend Cocoa's NSDate class with some convenience functions. http://www.zetetic.net/blog/  **400**
 
 ### NSFileManager
 * https://github.com/castial/HYFileManager HYFileManager is a powerful util based on NSFileManager. HYFileManager一个基于NSFileManager的文件操作类，它提供一系列的静态方法，只用少量的代码，来处理经常需要处理的文件操作，使得工作更加方便快捷。 **41**
@@ -272,7 +275,7 @@ github整理
 ### PickerView
 * https://github.com/STShenZhaoliang/STPickerView 一个多功能的选择器,有城市选择，日期选择和单数组源自定的功能，方便大家的使用,低耦合,易扩展。如果大家喜欢请给个星星，我将不断提供更好的代码。
 * https://github.com/hons82/THCalendarDatePicker  A DatePicker based on a custom calendar view **0.5k**
-* https://github.com/CooperRS/RMDateSelectionViewController This is an iOS control for selecting a date using UIDatePicker in a UIActionSheet like fashion **0.79k**
+* https://github.com/CooperRS/RMDateSelectionViewController This is an iOS control for selecting a date using UIDatePicker in a UIActionSheet like fashion **0.97k** ![](https://camo.githubusercontent.com/bdd70ae912b443a50d67126832c1bc4e7f808f61/687474703a2f2f636f6f70657272732e6769746875622e696f2f524d4461746553656c656374696f6e56696577436f6e74726f6c6c65722f496d616765732f426c75722d53637265656e2d506f7274726169742e706e67)
 
 ### QRCode
 * https://github.com/MxABC/LBXScan barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装) **star 920+**
@@ -281,7 +284,7 @@ github整理
 
 ### React Native 
 * https://github.com/crazycodeboy/RNStudyNotes React Native 学习笔记 **308**
-* https://github.com/ming1016/GCDFetchFeed  RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向 **124** ❤️
+* https://github.com/ming1016/GCDFetchFeed  RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向 **185** ❤️ ![](https://github.com/ming1016/GCDFetchFeed/blob/master/GCDFetchFeed/resource/ScreenShot1.png?raw=true)
 
 ### Runtime
 * http://iipanda.com/2016/05/11/Runtime实战之定制TabBarItem大小/ Runtime实战之定制TabBarItem大小
@@ -313,6 +316,7 @@ github整理
 * https://github.com/xhzengAIB/TagView  High efficiency Tag components. ❤️
 * https://github.com/zekunyan/TTGTagCollectionView
 * https://github.com/andreamazz/AMTagListView UIScrollView subclass that allows to add a list of highly customizable tags. 
+* https://github.com/iphone5solo/PYSearch 🔍 An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) . **1.8k** ![](https://github.com/iphone5solo/learngit/raw/master/imagesForPYSearch/hotSearchStyle02.png)
 
 ### Thread
 * https://github.com/minggo620/iOSMutipleThread iOS 多线程编程 ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/multiplethread1.png?raw=true) ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/mutiplethread1.gif?raw=true) ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/mutiplethread2.gif?raw=true) ![](https://github.com/minggo620/iOSMutipleThread/raw/master/picture/mutiplethread3.gif?raw=true)
@@ -327,12 +331,12 @@ github整理
 * https://github.com/littlebee/git-time-machine Atom package that allows you to travel back in commit history
 * https://github.com/netyouli/WHC_DataModelFactory 准确快速把json或者xml数据转换生成数据对象模型类，省去麻烦手动创建。
 * https://github.com/GeniusBrother/HZThemeManager 多主题切换 ThemeManager
-* https://github.com/Draveness/DKNightVersion Manage Colors, Integrate Night/Multiple Themes **star 2k+**
+* https://github.com/Draveness/DKNightVersion Manage Colors, Integrate Night/Multiple Themes **star 2k+** ![](https://github.com/Draveness/DKNightVersion/blob/master/images/DKNightVersion.gif)
 * https://github.com/Zepo/MLeaksFinder Find memory leaks in your iOS app at develop time.
 * https://github.com/daisuke0131/ViewMonitor ViewMonitor can measure view positions with accuracy.❤️❤️**star 0.6k**
 * https://github.com/neonichu/FixCode Fixing the "Fix Issues" button https://developer.apple.com/xcode/ **star 0.8k**
 * https://github.com/sebyddd/SDVersion 📱 Lightweight Cocoa library for detecting the running device's model and screen size. **star 1k**
-* https://github.com/adad184/MMPlaceHolder A drop in solution to show UIView's size. Only one line code to use it. **star 0.8k**
+* https://github.com/adad184/MMPlaceHolder A drop in solution to show UIView's size. Only one line code to use it. **star 0.9k** ![](https://raw.githubusercontent.com/adad184/MMPlaceHolder/master/Screenshot/screenshot1.PNG)
 * https://github.com/nicklockwood/XMLDictionary A simple way to parse and generate XML on iOS and Mac OS. Converts an XML file to an NSDictionary which can then be easily traversed using the standard Cocoa keyPath mechanism. Can also output the contents of any dictionary as XML. http://charcoaldesign.co.uk/source/cocoa#xml-dictionary **0.9k**
 * https://github.com/facebookarchive/three20 **7.6k**
 * https://github.com/square/PonyDebugger Remote network and data debugging for your native iOS app using Chrome Developer Tools **5k**
@@ -348,6 +352,7 @@ github整理
 * https://github.com/YvanLiu/HeartBeatsPlugin 手机摄像头测心率 带心率折线图 和 返回瞬时心率 **100**
 * https://github.com/devcxm/iOS-Images-Extractor  一台Mac应用程序解码，并从iOS应用程序中提取图像，支持PNG / JPG / IPA / Assets.car文件。 ![](https://cloud.githubusercontent.com/assets/8568955/7927878/874f0594-0918-11e5-9fe3-452372f5affd.gif)
 * https://github.com/jkpang/PPRows?utm_source=gank.io&utm_medium=email It Can Calculate how many lines of code you write on Mac ; 在Mac上优雅的计算你写了多少行代码 [](https://github.com/jkpang/PPRows/blob/master/source/Gif1.gif)
+* https://github.com/dreamhead/moco Easy Setup Stub Server **1600+**
 
 ### UICollectionView
 * https://github.com/yixiangboy/YXCollectionView UICollection学习总结以及案例集合 **star 290+**
@@ -411,7 +416,7 @@ github整理
 	* https://github.com/erichoracek/MSDynamicsDrawerViewController 侧滑
 	* https://github.com/TomSwift/MMDrawerController 侧滑 A lightweight, easy to use, Side Drawer Navigation Controller
 	* https://github.com/mutualmobile/MMDrawerController A lightweight, easy to use, Side Drawer Navigation Controller **star 5.4k**
-	* https://github.com/MoZhouqi/KMNavigationBarTransition A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.
+	* https://github.com/MoZhouqi/KMNavigationBarTransition A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically. **1700** ![](https://raw.githubusercontent.com/MoZhouqi/KMNavigationBarTransition/master/Screenshots/Now1.gif)
 	* https://github.com/SergioChan/SCTrelloNavigation 📋 An iOS native implementation of a Trello Animated Navagation. See more at https://dribbble.com/shots/2114816-Trello-Navigation. iOS上类似trello的导航动效控件实现。 **star 0.69k**
 	* https://github.com/ltebean/LTNavigationBar UINavigationBar Category which allows you to change its appearance dynamically **star 3k**
 	* https://github.com/forkingdog/FDFullscreenPopGesture A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style. **star 2.8k**
@@ -663,6 +668,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/xinge1/LXNetworking 
 * https://github.com/SummerHF/AFNetworking- 
 * https://github.com/boai/BANetManager 
+* https://github.com/kangzubin/XMNetworking XMNetworking  A lightweight but powerful network library with simplified and expressive syntax based on AFNetworking. **800** ![](https://camo.githubusercontent.com/1ee7674be8906c41b028d70790bfc7559b2283c1/687474703a2f2f696d672e6b616e677a7562696e2e636e2f786d6e6574776f726b696e672f584d4e6574776f726b696e672e706e67)
+* https://github.com/jkpang/PPNetworkHelper  **360** AFNetworking 3.x 与YYCache封装,一句代码搞定数据请求与缓存,告别FMDB!控制台直接打印json中文字符,调试更方便 
 
 ### 新姿势
 * https://github.com/shu223/iOS7-Sampler Code examples for the new features of iOS 7. **star 3k**
@@ -682,7 +689,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 ### 架构/设计模式
 * http://wereadteam.github.io/2016/06/30/Aspects/ 面向切面编程之 Aspects 源码解析及应用
 * https://github.com/CaryZheng/Vapor-Chinese apor 是基于 Swift 实现的 Web 框架与服务，可运行于 OS X 和 Ubuntu 系统上。
-* https://github.com/huang303513/Design-Pattern-For-iOS iOS设计模式探索 ❤️
+* https://github.com/huang303513/Design-Pattern-For-iOS iOS设计模式探索 ❤️ **500**
 * https://github.com/ChenYilong/CYLTabBarController 最低只需传两个数组即可完成主流App框架搭建 **star 2.2k**
 * https://github.com/alibaba/BeeHive BeeHive是用于ios的app模块化编程的框架实现方案，吸收了Spring框架service的理念来实现模块间的API耦合。 **142**
 * https://github.com/Bupterambition/AwesomeCommand An awesome command for async operation with ReactiveCocoa https://github.com/Bupterambition/AwesomeCommand 随着业务的发展，越来越多的业务逻辑堆积到一块，日积月累后，很多业务逻辑会交叠在一起，导致后续整理的时候十分混乱，基于这个需求，我们重构command组件，整体是基于ReactiveCocoa，这样的话不需要考虑调用顺序，只需要知道考虑结果，这样每个业务逻辑可以写成一条Signal链，后续只需要对链进行管理就可以。同时，我们对AwesomeCommand的线程做了很大优化，使得执行线程和回调线程完全分离，同时保证了线程安全，这样外部调用者就只需要关系业务逻辑不需要关心线程问题。
@@ -830,6 +837,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/yrq110/Some_IOS_Tutorials_With_Swift 一些使用Swift的iOS教程 
 * http://www.jianshu.com/p/a5b6d5efce88 [译]百里挑一：21个优质Swift开源App  原文链接：https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e#.ug7rr6ki5 ❤❤❤
 * https://github.com/jobbole/ProgrammingProjectList 有了这个列表，程序员不愁没练手的小项目了  这个列表原本首发在伯乐在线的一篇译文：http://blog.jobbole.com/49762/。2016年9月21日，该文章推送到微信公众号 程序员的那些事 （ID: iProgrammer ) 后，@BleethNie 留言建议把这 120+ 练手小项目统一放在一个地方，同时其他人可以把自己完成项目提交合并到一起，相互参考学习。于是我们在 GitHub 创建了这个项目。后续会以超链的形式合并大家提交的成果到这个列表。欢迎 fork & star，并扩散给更多人。
+* https://github.com/100mango/zen  iOS, Swift, Objective-C 心得
+* https://github.com/apple/swift-evolution  This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. https://apple.github.io/swift-evolution/ **6.6k**
 
 下面列出 120 多个项目构思，根据主题分成了 10 个分类。
 
@@ -871,6 +880,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### open-source-iOS-apps 
 * https://github.com/dkhamsing/open-source-ios-apps 📱 Collaborative List of Open-Source iOS Apps **star 6870+**
+* https://github.com/BendingSpoons/katana-swift  Swift Apps in a Swoosh! A modern framework for creating iOS and macOS apps, inspired by React and Redux.  **1400** ![](https://github.com/BendingSpoons/katana-swift/blob/master/Assets/demo_codingLove.gif?raw=true) 💕💕
 
 ### React Native
 ###### * https://github.com/jiangqqlmj/GaGaMall React Native开发嘎嘎商城客户端 http://www.lcode.org/ **180k+**
@@ -924,6 +934,8 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 * https://github.com/Flipboard/FLEX An in-app debugging and exploration tool for iOS ❤️❤️ **star 6.2k**
 * https://github.com/leichunfeng/MVVMReactiveCocoa GitBucket iOS App https://itunes.apple.com/cn/app/id961330940?mt=8*已上线* **star 2k**
 * https://github.com/SketchK/FOUR FOUR is a beautiful and lightweight task-recorder app, revolving around the theme of "10000 Hour Rule", encourage user to achieve their goal. *已上线* **0.125k**
+* https://github.com/Kapeli/Dash-iOS  Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios **6k**
+* https://github.com/JustinFincher/GitHubContributionsiOS Show off your GitHub contributions from your lock screen 📱 https://itunes.apple.com/us/app/contr… **200** ![](https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg)
 
 ### 教育学习
 * https://github.com/6ag/EnglishCommunity-swift swift语言开发的自学英语社区app
@@ -945,7 +957,7 @@ Gallop是一个功能强大、性能优秀的图文混排框架。
 
 ### 天气
 * https://github.com/cjnwan/SimpleWeather *已上线*
-* https://github.com/JakeLin/SwiftWeather SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language. **3.8k**
+* https://github.com/JakeLin/SwiftWeather SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language. **4.3k**
 
 ### 新闻资讯
 * https://github.com/dsxNiubility/SXNews ❤️ High imitation Neteasy News. (include list,detail,photoset,weather,feedback) **star 2.2k**
